@@ -1,0 +1,101 @@
+ID del Beneficiario,Nombre del Beneficiario,Tipo de Crédito,Monto del Crédito,Destino del Crédito,Tipo de Empresa,Sector Económico,Ubicación (Departamento),Zona (Rural/Urbano),Fecha de Otorgamiento,Plazo del Crédito (meses),Tasa de Interés (%),Garantía,Estado del Crédito
+1,Beneficiario_1,Ñepyrura 2.0,687439819,Infraestructura sustentable,Microempresa,Comercio,Departamento_3,Rural,2023-10-30,36,14.0,No tiene garantía,Finalizado
+2,Beneficiario_2,Banca Comunal,422655332,Cosecha y almacenamiento,Microempresa,Artesanal,Departamento_2,Semiurbano,2023-01-07,96,14.0,No tiene garantía,Activo
+3,Beneficiario_3,Banca Comunal,36152358,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Servicios,Departamento_4,Rural,2023-03-12,12,12.0,No tiene garantía,Activo
+4,Beneficiario_4,Juventud Emprendedora,308904416,Proyectos productivos rurales/urbanos,Productor individual,Turismo,Departamento_5,Rural,2023-01-17,36,10.0,FOGAMU,En mora
+5,Beneficiario_5,Turismo Rural 2.0 - Sello Verde,184760308,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Servicios,Departamento_16,Rural,2023-06-12,48,15.0,FOGAPY,Activo
+6,Beneficiario_6,Inversión Productiva,429131513,Equipamiento turístico,Microempresa,Industrial,Departamento_13,Rural,2023-02-26,96,13.0,No tiene garantía,Activo
+7,Beneficiario_7,Promandioca - CAH,612330792,Infraestructura sustentable,Productor individual,Comercio,Departamento_15,Periurbano,2023-09-15,24,15.0,FOGAPY,En mora
+8,Beneficiario_8,Para Micro y Pequeñas Empresas,403503362,Capital de inversión,Pequeña Empresa,Agropecuario,Departamento_10,Urbano,2023-05-20,84,15.0,No tiene garantía,Finalizado
+9,Beneficiario_9,Banca Comunal,143352283,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Agropecuario,Departamento_17,Rural,2023-03-29,12,18.0,FOGAPY,Activo
+10,Beneficiario_10,Banca Comunal,223602740,Energías renovables,Microempresa,Agropecuario,Departamento_2,Periurbano,2023-05-31,60,11.5,FOGAMU,En mora
+11,Beneficiario_11,Ñepyrura 2.0,742069025,Otros,Productor individual,Turismo,Departamento_13,Semiurbano,2023-04-20,36,11.5,FOGAMU,Finalizado
+12,Beneficiario_12,Inversión Productiva 2.0 - FOGAPY,353138268,Eficiencia energética,Microempresa,Agroindustrial,Departamento_11,Rural,2023-04-21,108,18.0,No tiene garantía,En mora
+13,Beneficiario_13,Ñepyrura 2.0,172697062,Proyectos productivos rurales/urbanos,Pequeña Empresa,Comercio,Departamento_12,Rural,2023-06-30,60,15.0,FOGAMU,Finalizado
+14,Beneficiario_14,Ñepyrura 2.0,67042098,Capital de inversión,Microempresa,Agricultura Familiar Campesina,Departamento_13,Semiurbano,2023-12-25,120,11.5,No tiene garantía,Finalizado
+15,Beneficiario_15,Para Micro y Pequeñas Empresas,372101066,Energías renovables,Pequeña Empresa,Artesanal,Departamento_15,Urbano,2023-11-07,36,11.5,FOGAMU,En mora
+16,Beneficiario_16,Banca Comunal,694860769,Tratamiento de residuos sólidos y líquidos,Microempresa,Comercio,Departamento_9,Rural,2023-04-09,120,18.0,No tiene garantía,En mora
+17,Beneficiario_17,Proagro CAH,34527641,Proyectos productivos rurales/urbanos,Microempresa,Artesanal,Departamento_6,Rural,2023-11-01,24,10.0,No tiene garantía,Activo
+18,Beneficiario_18,Crédito a Través del Descuento de Documento (CDD),373131056,Infraestructura sustentable,Microempresa,Agropecuario,Departamento_3,Periurbano,2023-06-07,120,12.0,FOGAMU,Activo
+19,Beneficiario_19,Proagro Banana,742287207,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Industrial,Departamento_5,Periurbano,2023-06-22,72,12.0,No tiene garantía,Finalizado
+20,Beneficiario_20,Po Joasá,525016903,Cosecha y almacenamiento,Productor individual,Industrial,Departamento_16,Semiurbano,2023-01-15,96,14.0,No tiene garantía,Finalizado
+21,Beneficiario_21,Yvy Ñamombarete Hagua,422882056,Eficiencia energética,Productor individual,Artesanal,Departamento_16,Rural,2023-04-16,72,14.0,No tiene garantía,Finalizado
+22,Beneficiario_22,Po Joasá,215315090,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Agroindustrial,Departamento_16,Periurbano,2023-11-29,84,10.0,No tiene garantía,Finalizado
+23,Beneficiario_23,Promandioca - CAH,398250089,Tratamiento de residuos sólidos y líquidos,Microempresa,Agropecuario,Departamento_5,Periurbano,2023-02-22,60,12.0,FOGAPY,Activo
+24,Beneficiario_24,Mbaretéra,351159343,Proyectos productivos rurales/urbanos,Pequeña Empresa,Turismo,Departamento_11,Rural,2023-11-20,96,15.0,FOGAPY,Finalizado
+25,Beneficiario_25,CAH/Mercadeo,243546666,Recolección de aguas de lluvia,Pequeña Empresa,Artesanal,Departamento_6,Urbano,2023-01-13,84,12.0,No tiene garantía,Activo
+26,Beneficiario_26,Proagro CAH,657371990,Capital de inversión,Organización legalmente constituida,Agricultura Familiar Campesina,Departamento_8,Rural,2023-07-02,96,12.0,No tiene garantía,En mora
+27,Beneficiario_27,Proagro Banana,194756309,Cosecha y almacenamiento,Organización legalmente constituida,Agricultura Familiar Campesina,Departamento_6,Rural,2023-12-01,72,12.0,FOGAMU,Finalizado
+28,Beneficiario_28,Ñepyrura 2.0,479286012,Eficiencia energética,Productor individual,Agricultura Familiar Campesina,Departamento_8,Semiurbano,2023-04-17,108,11.5,No tiene garantía,Finalizado
+29,Beneficiario_29,Turismo Rural,498459226,Desarrollo de microemprendimientos,Pequeña Empresa,Servicios,Departamento_3,Rural,2023-05-12,36,10.0,FOGAPY,Finalizado
+30,Beneficiario_30,Turismo Rural 2.0 - Sello Verde,554588688,Proyectos productivos rurales/urbanos,Organización legalmente constituida,Servicios,Departamento_3,Periurbano,2023-09-26,12,11.5,FOGAMU,Finalizado
+31,Beneficiario_31,Proagro Banana,467018157,Energías renovables,Productor individual,Turismo,Departamento_12,Rural,2023-10-26,48,10.0,No tiene garantía,En mora
+32,Beneficiario_32,CAH/Mercadeo,76629012,Energías renovables,Productor individual,Agropecuario,Departamento_2,Urbano,2023-09-05,60,15.0,FOGAPY,Finalizado
+33,Beneficiario_33,Inversión Productiva,306706591,Infraestructura sustentable,Organización legalmente constituida,Forestal,Departamento_4,Urbano,2023-10-14,12,15.0,No tiene garantía,En mora
+34,Beneficiario_34,Yvy Ñamombarete Hagua,250384696,Equipamiento turístico,Pequeña Empresa,Agroindustrial,Departamento_4,Rural,2023-09-03,84,12.0,FOGAPY,Finalizado
+35,Beneficiario_35,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,467781721,Capital operativo,Productor individual,Comercio,Departamento_11,Periurbano,2023-04-29,108,15.0,FOGAPY,En mora
+36,Beneficiario_36,Mbaretéra,560549723,Cosecha y almacenamiento,Pequeña Empresa,Agricultura Familiar Campesina,Departamento_3,Periurbano,2023-04-26,84,14.0,FOGAMU,Activo
+37,Beneficiario_37,Para Micro y Pequeñas Empresas,657763270,Ahorro obligatorio (Banca Comunal),Microempresa,Agricultura Familiar Campesina,Departamento_9,Semiurbano,2023-07-02,60,11.5,FOGAMU,Finalizado
+38,Beneficiario_38,Inversión Productiva,712968278,Tratamiento de residuos sólidos y líquidos,Microempresa,Servicios,Departamento_11,Rural,2023-01-08,36,11.5,No tiene garantía,En mora
+39,Beneficiario_39,Inversión Productiva 2.0 - FOGAPY,340060089,Capital operativo,Organización legalmente constituida,Agropecuario,Departamento_8,Periurbano,2023-12-22,60,15.0,FOGAPY,En mora
+40,Beneficiario_40,Kuña Ñamombarete Hagua - FOGAMU,43492529,Recolección de aguas de lluvia,Organización legalmente constituida,Agricultura Familiar Campesina,Departamento_7,Rural,2023-05-22,24,12.0,FOGAMU,En mora
+41,Beneficiario_41,Turismo Rural,96979375,Infraestructura sustentable,Microempresa,Industrial,Departamento_9,Periurbano,2023-11-05,12,12.0,No tiene garantía,Activo
+42,Beneficiario_42,Proagro CAH,716851566,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Servicios,Departamento_10,Rural,2023-05-18,24,14.0,FOGAPY,Finalizado
+43,Beneficiario_43,Yvy Ñamombarete Hagua,263412671,Otros,Organización legalmente constituida,Industrial,Departamento_12,Rural,2023-01-01,48,18.0,FOGAMU,Finalizado
+44,Beneficiario_44,Promandioca - CAH,299716269,Equipamiento turístico,Organización legalmente constituida,Forestal,Departamento_13,Rural,2023-05-22,96,18.0,FOGAPY,Activo
+45,Beneficiario_45,Mujer Emprendedora,135126976,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Forestal,Departamento_15,Periurbano,2023-10-05,48,13.0,No tiene garantía,En mora
+46,Beneficiario_46,Turismo Rural,558844175,Desarrollo de microemprendimientos,Microempresa,Turismo,Departamento_1,Semiurbano,2023-11-25,96,15.0,No tiene garantía,En mora
+47,Beneficiario_47,Kuña Ñamombarete Hagua - FOGAMU,487798424,Capital de inversión,Organización legalmente constituida,Industrial,Departamento_11,Periurbano,2023-07-20,12,12.0,FOGAMU,Activo
+48,Beneficiario_48,Banca Comunal,383159523,Capital operativo,Microempresa,Artesanal,Departamento_7,Periurbano,2023-03-13,72,13.0,FOGAMU,Activo
+49,Beneficiario_49,CAH/Mercadeo,723719262,Capital de inversión,Microempresa,Agropecuario,Departamento_11,Semiurbano,2023-03-04,12,13.0,No tiene garantía,Finalizado
+50,Beneficiario_50,Proagro Banana,651827211,Energías renovables,Microempresa,Forestal,Departamento_13,Periurbano,2023-05-23,24,10.0,FOGAMU,Activo
+51,Beneficiario_51,Mujer Emprendedora,144929068,Desarrollo de microemprendimientos,Pequeña Empresa,Industrial,Departamento_12,Urbano,2023-04-11,24,14.0,FOGAPY,En mora
+52,Beneficiario_52,Proagro CAH,199185158,Equipamiento turístico,Organización legalmente constituida,Turismo,Departamento_6,Semiurbano,2023-11-12,12,18.0,No tiene garantía,Activo
+53,Beneficiario_53,Po Joasá,605415035,Eficiencia energética,Microempresa,Turismo,Departamento_8,Urbano,2023-07-09,36,11.5,No tiene garantía,Activo
+54,Beneficiario_54,Inversión Productiva,148707305,Recolección de aguas de lluvia,Organización legalmente constituida,Agroindustrial,Departamento_16,Periurbano,2023-06-23,60,10.0,No tiene garantía,En mora
+55,Beneficiario_55,Yvy Ñamombarete Hagua,284703960,Energías renovables,Organización legalmente constituida,Agropecuario,Departamento_9,Rural,2023-11-13,48,13.0,FOGAMU,En mora
+56,Beneficiario_56,Turismo Rural,510302421,Eficiencia energética,Microempresa,Agricultura Familiar Campesina,Departamento_3,Semiurbano,2023-05-12,108,15.0,No tiene garantía,En mora
+57,Beneficiario_57,CAH/Mercadeo,242329317,Desarrollo de microemprendimientos,Productor individual,Artesanal,Departamento_9,Urbano,2023-07-29,108,15.0,FOGAPY,Activo
+58,Beneficiario_58,Kuña Ñamombarete Hagua - FOGAMU,116621201,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Industrial,Departamento_2,Rural,2023-02-13,72,12.0,No tiene garantía,Activo
+59,Beneficiario_59,Banca Comunal,324725246,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Turismo,Departamento_1,Periurbano,2023-01-23,60,11.5,FOGAPY,Finalizado
+60,Beneficiario_60,Proagro CAH,64877575,Desarrollo de microemprendimientos,Organización legalmente constituida,Industrial,Departamento_3,Semiurbano,2023-02-19,96,15.0,FOGAPY,Activo
+61,Beneficiario_61,Turismo Rural,301200120,Capital operativo,Organización legalmente constituida,Industrial,Departamento_2,Urbano,2023-10-08,48,13.0,FOGAMU,En mora
+62,Beneficiario_62,Po Joasá,482737803,Cultivo sostenible de frutas y verduras,Microempresa,Industrial,Departamento_14,Semiurbano,2023-03-24,84,14.0,No tiene garantía,Activo
+63,Beneficiario_63,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,511170204,Capital operativo,Microempresa,Comercio,Departamento_4,Rural,2023-09-16,84,15.0,FOGAMU,En mora
+64,Beneficiario_64,Turismo Rural,747330894,Energías renovables,Microempresa,Turismo,Departamento_9,Rural,2023-07-25,84,18.0,FOGAPY,En mora
+65,Beneficiario_65,CAH/Mercadeo,390093384,Proyectos productivos rurales/urbanos,Microempresa,Agroindustrial,Departamento_3,Rural,2023-12-25,84,15.0,FOGAPY,En mora
+66,Beneficiario_66,Banca Comunal,329492346,Eficiencia energética,Pequeña Empresa,Agropecuario,Departamento_14,Semiurbano,2023-12-06,108,18.0,No tiene garantía,Activo
+67,Beneficiario_67,Para Micro y Pequeñas Empresas,252679064,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Forestal,Departamento_5,Periurbano,2023-01-17,36,10.0,FOGAPY,En mora
+68,Beneficiario_68,Mbaretéra,593613388,Desarrollo de microemprendimientos,Organización legalmente constituida,Agropecuario,Departamento_15,Urbano,2023-01-22,48,15.0,FOGAPY,Finalizado
+69,Beneficiario_69,Mbaretéra,485251718,Equipamiento turístico,Microempresa,Agropecuario,Departamento_1,Urbano,2023-12-14,24,15.0,FOGAMU,Finalizado
+70,Beneficiario_70,Para Micro y Pequeñas Empresas,370592920,Cosecha y almacenamiento,Microempresa,Turismo,Departamento_2,Semiurbano,2023-05-31,120,13.0,No tiene garantía,En mora
+71,Beneficiario_71,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,625199233,Recolección de aguas de lluvia,Organización legalmente constituida,Industrial,Departamento_17,Rural,2023-07-29,72,10.0,FOGAPY,En mora
+72,Beneficiario_72,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,250109663,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Comercio,Departamento_10,Periurbano,2023-07-03,96,18.0,FOGAPY,Activo
+73,Beneficiario_73,Proagro Banana,288077936,Capital operativo,Microempresa,Comercio,Departamento_1,Periurbano,2023-06-18,24,15.0,No tiene garantía,Finalizado
+74,Beneficiario_74,Proagro Banana,519228528,Desarrollo de microemprendimientos,Productor individual,Comercio,Departamento_7,Urbano,2023-02-02,24,12.0,FOGAMU,Activo
+75,Beneficiario_75,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,255599571,Equipamiento turístico,Pequeña Empresa,Servicios,Departamento_4,Periurbano,2023-12-11,60,14.0,FOGAPY,En mora
+76,Beneficiario_76,Mbaretéra,623047321,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Turismo,Departamento_15,Periurbano,2023-02-06,84,15.0,FOGAPY,Activo
+77,Beneficiario_77,Juventud Emprendedora,60638593,Energías renovables,Microempresa,Forestal,Departamento_16,Urbano,2023-10-25,120,10.0,FOGAPY,Finalizado
+78,Beneficiario_78,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,2214869,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agropecuario,Departamento_5,Periurbano,2023-11-15,84,13.0,FOGAMU,En mora
+79,Beneficiario_79,Proagro Banana,196575942,Recolección de aguas de lluvia,Productor individual,Industrial,Departamento_3,Rural,2023-12-24,12,14.0,FOGAPY,Finalizado
+80,Beneficiario_80,Inversión Productiva 2.0 - FOGAPY,306534550,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Servicios,Departamento_5,Periurbano,2023-12-21,72,18.0,No tiene garantía,Activo
+81,Beneficiario_81,Ñepyrura 2.0,192053532,Capital de inversión,Organización legalmente constituida,Turismo,Departamento_10,Urbano,2023-04-05,72,13.0,FOGAPY,Activo
+82,Beneficiario_82,Juventud Emprendedora,78622523,Cosecha y almacenamiento,Productor individual,Industrial,Departamento_4,Urbano,2023-09-13,120,14.0,FOGAMU,Finalizado
+83,Beneficiario_83,Po Joasá,539404396,Equipamiento turístico,Productor individual,Agropecuario,Departamento_2,Urbano,2023-09-06,36,18.0,FOGAPY,En mora
+84,Beneficiario_84,Mbaretéra,226827129,Proyectos productivos rurales/urbanos,Pequeña Empresa,Artesanal,Departamento_12,Rural,2023-08-16,108,18.0,FOGAPY,En mora
+85,Beneficiario_85,Ñepyrura 2.0,699259194,Cosecha y almacenamiento,Organización legalmente constituida,Servicios,Departamento_9,Semiurbano,2023-06-04,84,13.0,No tiene garantía,Activo
+86,Beneficiario_86,Mujer Emprendedora,366116512,Infraestructura sustentable,Productor individual,Industrial,Departamento_4,Urbano,2023-08-21,12,18.0,FOGAPY,En mora
+87,Beneficiario_87,Inversión Productiva 2.0 - FOGAPY,542046388,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Industrial,Departamento_4,Semiurbano,2023-03-10,24,11.5,No tiene garantía,En mora
+88,Beneficiario_88,Inversión Productiva 2.0 - FOGAPY,5807912,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Agropecuario,Departamento_11,Rural,2023-10-23,72,10.0,FOGAPY,Finalizado
+89,Beneficiario_89,Kuña Ñamombarete Hagua - FOGAMU,254606148,Otros,Microempresa,Industrial,Departamento_14,Periurbano,2023-08-04,84,11.5,FOGAMU,En mora
+90,Beneficiario_90,Proagro Banana,453986214,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Industrial,Departamento_1,Urbano,2023-11-04,120,12.0,FOGAPY,En mora
+91,Beneficiario_91,Ñepyrura 2.0,85887041,Energías renovables,Organización legalmente constituida,Industrial,Departamento_12,Rural,2023-03-25,12,14.0,FOGAPY,Finalizado
+92,Beneficiario_92,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,84792687,Cosecha y almacenamiento,Organización legalmente constituida,Industrial,Departamento_7,Semiurbano,2023-03-09,72,15.0,FOGAPY,Activo
+93,Beneficiario_93,Banca Comunal,376617109,Otros,Pequeña Empresa,Turismo,Departamento_9,Rural,2023-03-24,12,13.0,No tiene garantía,Activo
+94,Beneficiario_94,Mujer Emprendedora,471625837,Eficiencia energética,Microempresa,Artesanal,Departamento_3,Semiurbano,2023-09-07,36,14.0,No tiene garantía,Activo
+95,Beneficiario_95,Ñepyrura 2.0,359201455,Cosecha y almacenamiento,Pequeña Empresa,Turismo,Departamento_10,Periurbano,2023-02-27,12,13.0,FOGAPY,En mora
+96,Beneficiario_96,Promandioca - CAH,205829654,Capital de inversión,Productor individual,Artesanal,Departamento_17,Semiurbano,2023-03-28,96,10.0,FOGAMU,Activo
+97,Beneficiario_97,CAH/Mercadeo,411297745,Infraestructura sustentable,Pequeña Empresa,Agricultura Familiar Campesina,Departamento_17,Periurbano,2023-11-29,60,14.0,FOGAPY,Finalizado
+98,Beneficiario_98,Para Micro y Pequeñas Empresas,586648063,Infraestructura sustentable,Pequeña Empresa,Artesanal,Departamento_7,Rural,2023-03-23,48,11.5,FOGAPY,Activo
+99,Beneficiario_99,Juventud Emprendedora,94604006,Recolección de aguas de lluvia,Pequeña Empresa,Agropecuario,Departamento_16,Urbano,2023-03-14,72,14.0,FOGAMU,En mora
+100,Beneficiario_100,Turismo Rural,64851250,Cultivo sostenible de frutas y verduras,Microempresa,Agropecuario,Departamento_17,Urbano,2023-10-05,48,14.0,FOGAMU,Activo

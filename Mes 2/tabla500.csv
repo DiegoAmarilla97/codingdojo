@@ -1,0 +1,501 @@
+ID del Beneficiario,Nombre del Beneficiario,Tipo de Crédito,Monto del Crédito,Destino del Crédito,Tipo de Empresa,Sector Económico,Ubicación (Departamento),Zona (Rural/Urbano),Fecha de Otorgamiento,Plazo del Crédito (meses),Tasa de Interés (%),Garantía,Estado del Crédito
+1,Beneficiario_1,Turismo Rural 2.0 - Sello Verde,681560696,Proyectos productivos rurales/urbanos,Productor individual,Agricultura Familiar Campesina,Canindeyú,Semiurbano,2023-10-07,96,11.5,FOGAPY,Finalizado
+2,Beneficiario_2,Ñepyrura 2.0,163476964,Recolección de aguas de lluvia,Microempresa,Agroindustrial,Misiones,Rural,2023-01-03,72,13.0,No tiene garantía,En mora
+3,Beneficiario_3,Proagro Banana,614945943,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Servicios,Amambay,Periurbano,2023-11-08,108,10.0,FOGAPY,En mora
+4,Beneficiario_4,Turismo Rural 2.0 - Sello Verde,563408464,Infraestructura sustentable,Productor individual,Agricultura Familiar Campesina,Caaguazú,Urbano,2023-02-01,72,12.0,No tiene garantía,Activo
+5,Beneficiario_5,Para Micro y Pequeñas Empresas,123357612,Recolección de aguas de lluvia,Pequeña Empresa,Turismo,Cordillera,Periurbano,2023-03-08,60,11.5,FOGAPY,En mora
+6,Beneficiario_6,Po Joasá,370290435,Infraestructura sustentable,Productor individual,Servicios,Presidente Hayes,Semiurbano,2023-02-22,120,15.0,No tiene garantía,Activo
+7,Beneficiario_7,Proagro CAH,244130356,Cosecha y almacenamiento,Microempresa,Agricultura Familiar Campesina,Alto Paraguay,Rural,2023-11-29,120,18.0,No tiene garantía,Activo
+8,Beneficiario_8,Turismo Rural,563459343,Cultivo sostenible de frutas y verduras,Microempresa,Forestal,Central,Periurbano,2023-10-03,72,14.0,No tiene garantía,Activo
+9,Beneficiario_9,Yvy Ñamombarete Hagua,681081409,Capital de inversión,Organización legalmente constituida,Agricultura Familiar Campesina,Caazapá,Rural,2023-04-22,36,11.5,FOGAMU,Activo
+10,Beneficiario_10,Yvy Ñamombarete Hagua,434024807,Recolección de aguas de lluvia,Productor individual,Agroindustrial,Presidente Hayes,Rural,2023-05-12,48,15.0,FOGAPY,En mora
+11,Beneficiario_11,Inversión Productiva 2.0 - FOGAPY,732132493,Energías renovables,Productor individual,Turismo,Alto Paraná,Rural,2023-08-31,24,14.0,No tiene garantía,En mora
+12,Beneficiario_12,Kuña Ñamombarete Hagua - FOGAMU,184900701,Infraestructura sustentable,Pequeña Empresa,Agricultura Familiar Campesina,Boquerón,Semiurbano,2023-11-09,96,14.0,FOGAPY,Activo
+13,Beneficiario_13,Turismo Rural 2.0 - Sello Verde,83481963,Capital operativo,Organización legalmente constituida,Forestal,Misiones,Urbano,2023-10-13,84,12.0,No tiene garantía,Finalizado
+14,Beneficiario_14,Proagro CAH,515712892,Eficiencia energética,Microempresa,Industrial,Amambay,Urbano,2023-11-14,12,13.0,No tiene garantía,En mora
+15,Beneficiario_15,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,586229811,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Servicios,Guairá,Semiurbano,2023-09-05,60,14.0,No tiene garantía,Activo
+16,Beneficiario_16,Crédito a Través del Descuento de Documento (CDD),142457351,Recolección de aguas de lluvia,Microempresa,Industrial,Alto Paraná,Semiurbano,2023-09-23,84,12.0,FOGAMU,Activo
+17,Beneficiario_17,Inversión Productiva 2.0 - FOGAPY,85749249,Equipamiento turístico,Organización legalmente constituida,Servicios,Ñeembucú,Urbano,2023-07-11,12,14.0,No tiene garantía,Activo
+18,Beneficiario_18,Kuña Ñamombarete Hagua - FOGAMU,508806722,Equipamiento turístico,Productor individual,Artesanal,Caazapá,Rural,2023-03-08,72,12.0,No tiene garantía,Activo
+19,Beneficiario_19,Para Micro y Pequeñas Empresas,417189332,Desarrollo de microemprendimientos,Organización legalmente constituida,Forestal,Canindeyú,Semiurbano,2023-03-01,72,15.0,No tiene garantía,En mora
+20,Beneficiario_20,Yvy Ñamombarete Hagua,563489394,Recolección de aguas de lluvia,Microempresa,Artesanal,Itapúa,Semiurbano,2023-06-04,36,18.0,FOGAMU,En mora
+21,Beneficiario_21,Proagro CAH,490544384,Otros,Microempresa,Industrial,San Pedro,Urbano,2023-01-15,48,14.0,FOGAMU,Activo
+22,Beneficiario_22,Mujer Emprendedora,343214588,Cosecha y almacenamiento,Productor individual,Servicios,Ñeembucú,Rural,2023-07-15,108,13.0,No tiene garantía,Finalizado
+23,Beneficiario_23,Yvy Ñamombarete Hagua,191649022,Cosecha y almacenamiento,Organización legalmente constituida,Agricultura Familiar Campesina,Central,Semiurbano,2023-03-22,84,13.0,FOGAPY,En mora
+24,Beneficiario_24,Proagro Banana,596401576,Otros,Pequeña Empresa,Industrial,Presidente Hayes,Rural,2023-02-26,120,15.0,FOGAMU,Finalizado
+25,Beneficiario_25,Mujer Emprendedora,486433094,Cosecha y almacenamiento,Pequeña Empresa,Forestal,Alto Paraná,Urbano,2023-02-12,84,14.0,FOGAPY,En mora
+26,Beneficiario_26,Kuña Ñamombarete Hagua - FOGAMU,76853798,Cosecha y almacenamiento,Pequeña Empresa,Agricultura Familiar Campesina,Misiones,Urbano,2023-10-20,96,15.0,No tiene garantía,En mora
+27,Beneficiario_27,CAH/Mercadeo,644689639,Cultivo sostenible de frutas y verduras,Microempresa,Industrial,Alto Paraná,Rural,2023-08-23,72,15.0,FOGAPY,En mora
+28,Beneficiario_28,Mujer Emprendedora,687978758,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Caazapá,Semiurbano,2023-11-22,72,14.0,FOGAMU,Finalizado
+29,Beneficiario_29,Inversión Productiva 2.0 - FOGAPY,258276746,Ahorro obligatorio (Banca Comunal),Microempresa,Artesanal,Amambay,Semiurbano,2023-03-12,72,13.0,FOGAMU,Activo
+30,Beneficiario_30,Yvy Ñamombarete Hagua,275112025,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Industrial,Misiones,Rural,2023-06-10,96,15.0,FOGAMU,Finalizado
+31,Beneficiario_31,Proagro Banana,665969335,Energías renovables,Pequeña Empresa,Agricultura Familiar Campesina,Concepción,Rural,2023-04-26,12,11.5,FOGAPY,Activo
+32,Beneficiario_32,Ñepyrura 2.0,702419001,Proyectos productivos rurales/urbanos,Productor individual,Turismo,Ñeembucú,Urbano,2023-05-08,48,13.0,FOGAMU,En mora
+33,Beneficiario_33,Yvy Ñamombarete Hagua,342679650,Cosecha y almacenamiento,Productor individual,Comercio,Caazapá,Urbano,2023-09-24,120,10.0,No tiene garantía,Finalizado
+34,Beneficiario_34,Proagro Banana,717954756,Infraestructura sustentable,Pequeña Empresa,Turismo,Caaguazú,Periurbano,2023-10-01,36,18.0,No tiene garantía,Finalizado
+35,Beneficiario_35,Po Joasá,293253801,Desarrollo de microemprendimientos,Organización legalmente constituida,Agroindustrial,Caazapá,Urbano,2023-06-15,24,12.0,FOGAPY,En mora
+36,Beneficiario_36,Banca Comunal,170875397,Energías renovables,Pequeña Empresa,Industrial,Boquerón,Urbano,2023-04-24,96,14.0,FOGAMU,En mora
+37,Beneficiario_37,Ñepyrura 2.0,535510436,Capital de inversión,Organización legalmente constituida,Agropecuario,Alto Paraná,Semiurbano,2023-06-10,12,14.0,FOGAPY,En mora
+38,Beneficiario_38,Proagro CAH,559274203,Capital de inversión,Microempresa,Agroindustrial,Cordillera,Rural,2023-11-26,60,13.0,FOGAPY,Finalizado
+39,Beneficiario_39,Promandioca - CAH,430811356,Otros,Productor individual,Industrial,Itapúa,Semiurbano,2023-06-13,60,15.0,No tiene garantía,Finalizado
+40,Beneficiario_40,Inversión Productiva,80761204,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Turismo,Caaguazú,Urbano,2023-02-10,24,12.0,FOGAMU,En mora
+41,Beneficiario_41,Proagro Banana,372317710,Otros,Microempresa,Industrial,Concepción,Urbano,2023-09-20,96,14.0,FOGAMU,Finalizado
+42,Beneficiario_42,Ñepyrura 2.0,713710745,Capital operativo,Pequeña Empresa,Industrial,Boquerón,Semiurbano,2023-02-06,72,11.5,No tiene garantía,Activo
+43,Beneficiario_43,Juventud Emprendedora,121178871,Tratamiento de residuos sólidos y líquidos,Productor individual,Agroindustrial,Paraguarí,Urbano,2023-11-07,72,12.0,No tiene garantía,En mora
+44,Beneficiario_44,CAH/Mercadeo,350019494,Cosecha y almacenamiento,Pequeña Empresa,Industrial,Central,Rural,2023-09-29,120,18.0,FOGAPY,Finalizado
+45,Beneficiario_45,Mbaretéra,273797236,Eficiencia energética,Pequeña Empresa,Turismo,Caazapá,Rural,2023-07-01,60,12.0,FOGAMU,Finalizado
+46,Beneficiario_46,Ñepyrura 2.0,86110476,Desarrollo de microemprendimientos,Microempresa,Artesanal,Paraguarí,Periurbano,2023-06-08,60,12.0,FOGAPY,Finalizado
+47,Beneficiario_47,Promandioca - CAH,748676089,Capital operativo,Productor individual,Agroindustrial,Ñeembucú,Rural,2023-10-23,60,10.0,No tiene garantía,Activo
+48,Beneficiario_48,Promandioca - CAH,615394688,Capital operativo,Pequeña Empresa,Forestal,Asunción,Urbano,2023-06-27,12,11.5,No tiene garantía,Finalizado
+49,Beneficiario_49,Proagro CAH,37231287,Proyectos productivos rurales/urbanos,Productor individual,Forestal,Caaguazú,Urbano,2023-08-20,72,13.0,No tiene garantía,En mora
+50,Beneficiario_50,CAH/Mercadeo,496937982,Capital de inversión,Microempresa,Artesanal,Asunción,Urbano,2023-05-10,96,18.0,FOGAMU,En mora
+51,Beneficiario_51,CAH/Mercadeo,423490082,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agroindustrial,Cordillera,Periurbano,2023-03-28,24,18.0,FOGAPY,Activo
+52,Beneficiario_52,Turismo Rural 2.0 - Sello Verde,332606981,Otros,Microempresa,Agroindustrial,Alto Paraná,Rural,2023-05-15,60,11.5,FOGAPY,Activo
+53,Beneficiario_53,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,214696134,Cultivo sostenible de frutas y verduras,Microempresa,Agropecuario,Paraguarí,Rural,2023-08-01,72,11.5,FOGAPY,Activo
+54,Beneficiario_54,Turismo Rural,628144347,Otros,Microempresa,Forestal,Concepción,Semiurbano,2023-04-09,48,12.0,FOGAPY,Finalizado
+55,Beneficiario_55,Mbaretéra,670635475,Eficiencia energética,Pequeña Empresa,Turismo,Paraguarí,Rural,2023-11-28,108,15.0,FOGAMU,Activo
+56,Beneficiario_56,Mujer Emprendedora,122332954,Ahorro obligatorio (Banca Comunal),Productor individual,Forestal,Caazapá,Periurbano,2023-12-30,120,11.5,FOGAMU,Activo
+57,Beneficiario_57,Turismo Rural,227510960,Cosecha y almacenamiento,Organización legalmente constituida,Turismo,Caazapá,Urbano,2023-10-07,72,12.0,FOGAMU,Finalizado
+58,Beneficiario_58,Crédito a Través del Descuento de Documento (CDD),584613785,Desarrollo de microemprendimientos,Microempresa,Servicios,Misiones,Semiurbano,2023-10-07,120,14.0,FOGAPY,Activo
+59,Beneficiario_59,Kuña Ñamombarete Hagua - FOGAMU,232540611,Infraestructura sustentable,Organización legalmente constituida,Industrial,San Pedro,Rural,2023-09-09,72,13.0,No tiene garantía,En mora
+60,Beneficiario_60,Ñepyrura 2.0,743240053,Capital operativo,Microempresa,Comercio,Asunción,Rural,2023-11-26,120,14.0,FOGAPY,En mora
+61,Beneficiario_61,Yvy Ñamombarete Hagua,137519769,Cosecha y almacenamiento,Productor individual,Forestal,Concepción,Rural,2023-06-11,24,15.0,FOGAMU,Activo
+62,Beneficiario_62,Yvy Ñamombarete Hagua,503151103,Eficiencia energética,Organización legalmente constituida,Agropecuario,Presidente Hayes,Periurbano,2023-03-04,24,15.0,FOGAPY,Finalizado
+63,Beneficiario_63,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,254507191,Proyectos productivos rurales/urbanos,Pequeña Empresa,Industrial,Canindeyú,Semiurbano,2023-08-13,24,15.0,FOGAMU,En mora
+64,Beneficiario_64,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,557251729,Desarrollo de microemprendimientos,Pequeña Empresa,Artesanal,Alto Paraguay,Urbano,2023-12-15,96,15.0,FOGAMU,Finalizado
+65,Beneficiario_65,Kuña Ñamombarete Hagua - FOGAMU,28528123,Ahorro obligatorio (Banca Comunal),Microempresa,Agropecuario,Paraguarí,Urbano,2023-01-27,96,13.0,FOGAPY,Finalizado
+66,Beneficiario_66,Banca Comunal,665513733,Infraestructura sustentable,Pequeña Empresa,Comercio,Central,Urbano,2023-08-03,96,10.0,No tiene garantía,Activo
+67,Beneficiario_67,Banca Comunal,547461581,Equipamiento turístico,Microempresa,Servicios,Canindeyú,Semiurbano,2023-12-10,84,14.0,FOGAMU,Activo
+68,Beneficiario_68,Proagro CAH,54963542,Tratamiento de residuos sólidos y líquidos,Microempresa,Artesanal,Ñeembucú,Periurbano,2023-12-13,36,12.0,FOGAMU,En mora
+69,Beneficiario_69,Banca Comunal,152256594,Proyectos productivos rurales/urbanos,Organización legalmente constituida,Agroindustrial,Amambay,Rural,2023-08-30,60,11.5,FOGAPY,Finalizado
+70,Beneficiario_70,Turismo Rural 2.0 - Sello Verde,686799315,Equipamiento turístico,Organización legalmente constituida,Artesanal,San Pedro,Urbano,2023-04-25,48,10.0,FOGAPY,En mora
+71,Beneficiario_71,Mbaretéra,220903240,Cultivo sostenible de frutas y verduras,Productor individual,Comercio,Amambay,Semiurbano,2023-06-26,84,18.0,FOGAPY,Activo
+72,Beneficiario_72,Promandioca - CAH,726798937,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,Concepción,Periurbano,2023-07-05,108,10.0,No tiene garantía,En mora
+73,Beneficiario_73,Proagro Banana,115269938,Capital operativo,Microempresa,Artesanal,Paraguarí,Periurbano,2023-12-26,96,18.0,FOGAMU,En mora
+74,Beneficiario_74,CAH/Mercadeo,278437079,Infraestructura sustentable,Pequeña Empresa,Comercio,Ñeembucú,Rural,2023-09-29,120,11.5,FOGAMU,En mora
+75,Beneficiario_75,Banca Comunal,463929635,Proyectos productivos rurales/urbanos,Productor individual,Artesanal,Alto Paraguay,Periurbano,2023-08-06,12,13.0,No tiene garantía,En mora
+76,Beneficiario_76,Kuña Ñamombarete Hagua - FOGAMU,356495319,Tratamiento de residuos sólidos y líquidos,Microempresa,Industrial,Ñeembucú,Semiurbano,2023-11-03,72,10.0,FOGAPY,Finalizado
+77,Beneficiario_77,Turismo Rural 2.0 - Sello Verde,84235727,Capital de inversión,Productor individual,Comercio,Central,Urbano,2023-02-17,84,10.0,FOGAMU,Finalizado
+78,Beneficiario_78,Inversión Productiva 2.0 - FOGAPY,109519239,Desarrollo de microemprendimientos,Microempresa,Artesanal,Alto Paraguay,Periurbano,2023-03-26,12,10.0,No tiene garantía,En mora
+79,Beneficiario_79,Promandioca - CAH,606043602,Energías renovables,Microempresa,Comercio,Boquerón,Urbano,2023-03-31,36,13.0,FOGAMU,En mora
+80,Beneficiario_80,Kuña Ñamombarete Hagua - FOGAMU,54027013,Tratamiento de residuos sólidos y líquidos,Microempresa,Turismo,Alto Paraguay,Urbano,2023-12-21,60,15.0,FOGAPY,En mora
+81,Beneficiario_81,Proagro Banana,208219924,Eficiencia energética,Organización legalmente constituida,Agropecuario,San Pedro,Urbano,2023-06-20,96,12.0,No tiene garantía,En mora
+82,Beneficiario_82,CAH/Mercadeo,378768040,Capital operativo,Organización legalmente constituida,Forestal,Guairá,Rural,2023-10-13,48,12.0,No tiene garantía,Activo
+83,Beneficiario_83,Inversión Productiva 2.0 - FOGAPY,140720022,Energías renovables,Pequeña Empresa,Agroindustrial,Boquerón,Urbano,2023-07-24,60,14.0,FOGAMU,En mora
+84,Beneficiario_84,Mbaretéra,214625633,Cosecha y almacenamiento,Organización legalmente constituida,Forestal,Central,Rural,2023-09-22,108,18.0,No tiene garantía,Finalizado
+85,Beneficiario_85,Po Joasá,39305099,Capital operativo,Pequeña Empresa,Agricultura Familiar Campesina,Central,Periurbano,2023-01-11,84,15.0,FOGAMU,En mora
+86,Beneficiario_86,Mbaretéra,102749127,Desarrollo de microemprendimientos,Microempresa,Comercio,Alto Paraguay,Rural,2023-10-08,108,10.0,FOGAMU,Activo
+87,Beneficiario_87,Yvy Ñamombarete Hagua,335905518,Capital de inversión,Microempresa,Comercio,Paraguarí,Urbano,2023-01-05,72,10.0,No tiene garantía,Activo
+88,Beneficiario_88,CAH/Mercadeo,254332580,Proyectos productivos rurales/urbanos,Productor individual,Forestal,Paraguarí,Rural,2023-02-03,96,10.0,FOGAPY,Activo
+89,Beneficiario_89,Proagro Banana,710697527,Proyectos productivos rurales/urbanos,Microempresa,Forestal,Caazapá,Semiurbano,2023-06-05,96,12.0,FOGAMU,Activo
+90,Beneficiario_90,Inversión Productiva,432330545,Recolección de aguas de lluvia,Microempresa,Turismo,Caaguazú,Rural,2023-03-02,108,11.5,No tiene garantía,Activo
+91,Beneficiario_91,Kuña Ñamombarete Hagua - FOGAMU,1376930,Eficiencia energética,Productor individual,Forestal,Asunción,Periurbano,2023-04-04,60,14.0,FOGAPY,Activo
+92,Beneficiario_92,Kuña Ñamombarete Hagua - FOGAMU,680435718,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Agropecuario,Caazapá,Rural,2023-07-25,48,18.0,FOGAPY,Finalizado
+93,Beneficiario_93,Crédito a Través del Descuento de Documento (CDD),193189663,Ahorro obligatorio (Banca Comunal),Microempresa,Comercio,Alto Paraná,Urbano,2023-11-27,12,10.0,FOGAPY,Finalizado
+94,Beneficiario_94,Para Micro y Pequeñas Empresas,395905716,Tratamiento de residuos sólidos y líquidos,Productor individual,Agricultura Familiar Campesina,Alto Paraguay,Rural,2023-07-31,96,11.5,FOGAMU,En mora
+95,Beneficiario_95,Po Joasá,641478293,Eficiencia energética,Productor individual,Forestal,Caazapá,Rural,2023-03-29,12,11.5,No tiene garantía,En mora
+96,Beneficiario_96,CAH/Mercadeo,567959726,Otros,Productor individual,Industrial,Guairá,Rural,2023-04-01,96,12.0,No tiene garantía,Finalizado
+97,Beneficiario_97,Proagro Banana,247275203,Infraestructura sustentable,Productor individual,Artesanal,Asunción,Urbano,2023-09-18,12,13.0,FOGAPY,Activo
+98,Beneficiario_98,Proagro CAH,444640308,Recolección de aguas de lluvia,Organización legalmente constituida,Turismo,Presidente Hayes,Periurbano,2023-04-09,60,11.5,FOGAPY,Finalizado
+99,Beneficiario_99,Proagro CAH,247794770,Infraestructura sustentable,Pequeña Empresa,Forestal,Caazapá,Semiurbano,2023-06-11,96,11.5,FOGAPY,Activo
+100,Beneficiario_100,Banca Comunal,111872685,Cosecha y almacenamiento,Productor individual,Industrial,Presidente Hayes,Semiurbano,2023-01-29,12,18.0,No tiene garantía,Finalizado
+101,Beneficiario_101,Banca Comunal,352057661,Energías renovables,Productor individual,Industrial,Alto Paraguay,Rural,2023-12-21,60,18.0,FOGAMU,Finalizado
+102,Beneficiario_102,Para Micro y Pequeñas Empresas,498003192,Desarrollo de microemprendimientos,Pequeña Empresa,Servicios,Caaguazú,Rural,2023-09-08,84,15.0,FOGAPY,En mora
+103,Beneficiario_103,Mbaretéra,445201285,Tratamiento de residuos sólidos y líquidos,Microempresa,Agropecuario,Caazapá,Rural,2023-04-26,36,11.5,FOGAPY,En mora
+104,Beneficiario_104,Juventud Emprendedora,492901329,Eficiencia energética,Pequeña Empresa,Turismo,San Pedro,Periurbano,2023-01-21,84,15.0,FOGAPY,Finalizado
+105,Beneficiario_105,Kuña Ñamombarete Hagua - FOGAMU,326970372,Desarrollo de microemprendimientos,Organización legalmente constituida,Agricultura Familiar Campesina,Caazapá,Periurbano,2023-01-29,12,15.0,FOGAMU,Finalizado
+106,Beneficiario_106,Mujer Emprendedora,30077757,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Agricultura Familiar Campesina,Paraguarí,Periurbano,2023-05-13,36,15.0,No tiene garantía,En mora
+107,Beneficiario_107,Yvy Ñamombarete Hagua,323069520,Otros,Productor individual,Agroindustrial,Alto Paraguay,Periurbano,2023-08-01,84,15.0,FOGAPY,Finalizado
+108,Beneficiario_108,Turismo Rural,439739803,Energías renovables,Microempresa,Comercio,Concepción,Periurbano,2023-07-22,108,18.0,FOGAMU,Finalizado
+109,Beneficiario_109,Banca Comunal,616805986,Capital operativo,Microempresa,Forestal,Misiones,Urbano,2023-11-02,60,15.0,FOGAPY,En mora
+110,Beneficiario_110,Mbaretéra,623435264,Tratamiento de residuos sólidos y líquidos,Microempresa,Agropecuario,Cordillera,Periurbano,2023-02-14,24,18.0,FOGAMU,Activo
+111,Beneficiario_111,Inversión Productiva,526147855,Cultivo sostenible de frutas y verduras,Productor individual,Agricultura Familiar Campesina,Alto Paraná,Semiurbano,2023-12-31,36,15.0,FOGAPY,Finalizado
+112,Beneficiario_112,Proagro Banana,666489446,Cosecha y almacenamiento,Pequeña Empresa,Forestal,Itapúa,Rural,2023-08-05,12,12.0,FOGAPY,Finalizado
+113,Beneficiario_113,Mbaretéra,91377252,Recolección de aguas de lluvia,Organización legalmente constituida,Agricultura Familiar Campesina,Paraguarí,Rural,2023-10-27,24,12.0,FOGAMU,En mora
+114,Beneficiario_114,Ñepyrura 2.0,413982783,Proyectos productivos rurales/urbanos,Productor individual,Comercio,Presidente Hayes,Rural,2023-02-01,36,11.5,FOGAPY,Activo
+115,Beneficiario_115,Crédito a Través del Descuento de Documento (CDD),354258566,Proyectos productivos rurales/urbanos,Microempresa,Artesanal,San Pedro,Rural,2023-08-20,48,11.5,No tiene garantía,Finalizado
+116,Beneficiario_116,Juventud Emprendedora,230087902,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Agropecuario,Misiones,Semiurbano,2023-02-11,12,13.0,FOGAMU,En mora
+117,Beneficiario_117,Mbaretéra,647544093,Otros,Productor individual,Artesanal,Asunción,Urbano,2023-09-29,96,10.0,FOGAPY,En mora
+118,Beneficiario_118,Proagro CAH,552476084,Recolección de aguas de lluvia,Pequeña Empresa,Turismo,Cordillera,Urbano,2023-02-08,60,14.0,No tiene garantía,Activo
+119,Beneficiario_119,Mujer Emprendedora,443032146,Equipamiento turístico,Organización legalmente constituida,Forestal,Paraguarí,Semiurbano,2023-05-19,72,11.5,FOGAPY,Finalizado
+120,Beneficiario_120,Turismo Rural,271991645,Capital de inversión,Microempresa,Agricultura Familiar Campesina,San Pedro,Semiurbano,2023-10-09,36,12.0,FOGAPY,Activo
+121,Beneficiario_121,Proagro Banana,579824956,Capital operativo,Microempresa,Industrial,Central,Periurbano,2023-11-28,120,10.0,FOGAPY,Activo
+122,Beneficiario_122,Crédito a Través del Descuento de Documento (CDD),8225584,Capital de inversión,Pequeña Empresa,Agropecuario,Boquerón,Rural,2023-09-05,120,18.0,FOGAMU,Activo
+123,Beneficiario_123,Inversión Productiva 2.0 - FOGAPY,152244802,Recolección de aguas de lluvia,Microempresa,Turismo,Alto Paraná,Periurbano,2023-06-20,96,15.0,FOGAPY,Finalizado
+124,Beneficiario_124,Inversión Productiva,543918652,Eficiencia energética,Organización legalmente constituida,Artesanal,Guairá,Urbano,2023-05-03,120,18.0,FOGAPY,Finalizado
+125,Beneficiario_125,Proagro Banana,499337042,Equipamiento turístico,Pequeña Empresa,Comercio,Paraguarí,Periurbano,2023-04-21,96,10.0,FOGAMU,Finalizado
+126,Beneficiario_126,Po Joasá,462167133,Cosecha y almacenamiento,Microempresa,Agropecuario,Central,Urbano,2023-10-03,120,14.0,No tiene garantía,Activo
+127,Beneficiario_127,Po Joasá,586179045,Capital de inversión,Pequeña Empresa,Artesanal,Canindeyú,Urbano,2023-01-09,36,10.0,No tiene garantía,En mora
+128,Beneficiario_128,Para Micro y Pequeñas Empresas,249269687,Desarrollo de microemprendimientos,Organización legalmente constituida,Comercio,San Pedro,Rural,2023-05-02,12,18.0,FOGAMU,Activo
+129,Beneficiario_129,Yvy Ñamombarete Hagua,566884052,Infraestructura sustentable,Organización legalmente constituida,Agroindustrial,Canindeyú,Semiurbano,2023-07-20,24,14.0,FOGAPY,En mora
+130,Beneficiario_130,Inversión Productiva,450598980,Eficiencia energética,Organización legalmente constituida,Comercio,Alto Paraná,Rural,2023-01-02,12,13.0,FOGAMU,En mora
+131,Beneficiario_131,Ñepyrura 2.0,107532582,Cultivo sostenible de frutas y verduras,Productor individual,Industrial,San Pedro,Periurbano,2023-03-19,48,18.0,No tiene garantía,Activo
+132,Beneficiario_132,Proagro Banana,695392291,Recolección de aguas de lluvia,Pequeña Empresa,Comercio,Ñeembucú,Semiurbano,2023-03-15,84,11.5,No tiene garantía,Activo
+133,Beneficiario_133,CAH/Mercadeo,575079661,Infraestructura sustentable,Organización legalmente constituida,Agroindustrial,Alto Paraguay,Periurbano,2023-07-09,120,14.0,No tiene garantía,Finalizado
+134,Beneficiario_134,Mbaretéra,367677794,Capital operativo,Microempresa,Industrial,Paraguarí,Semiurbano,2023-07-09,120,14.0,FOGAPY,Activo
+135,Beneficiario_135,Turismo Rural,275730933,Cosecha y almacenamiento,Organización legalmente constituida,Forestal,Itapúa,Urbano,2023-03-09,96,10.0,No tiene garantía,Finalizado
+136,Beneficiario_136,Crédito a Través del Descuento de Documento (CDD),508866852,Proyectos productivos rurales/urbanos,Microempresa,Forestal,Asunción,Semiurbano,2023-04-12,12,18.0,No tiene garantía,En mora
+137,Beneficiario_137,Proagro Banana,170886678,Otros,Productor individual,Agroindustrial,Canindeyú,Semiurbano,2023-06-22,48,15.0,FOGAMU,Activo
+138,Beneficiario_138,Inversión Productiva,561919816,Cosecha y almacenamiento,Pequeña Empresa,Industrial,Canindeyú,Rural,2023-05-08,36,12.0,No tiene garantía,Activo
+139,Beneficiario_139,CAH/Mercadeo,498598805,Ahorro obligatorio (Banca Comunal),Productor individual,Servicios,Canindeyú,Periurbano,2023-03-29,84,10.0,FOGAPY,En mora
+140,Beneficiario_140,Kuña Ñamombarete Hagua - FOGAMU,429718542,Equipamiento turístico,Organización legalmente constituida,Turismo,Ñeembucú,Periurbano,2023-02-09,48,10.0,No tiene garantía,Finalizado
+141,Beneficiario_141,Turismo Rural 2.0 - Sello Verde,631002900,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Agricultura Familiar Campesina,Alto Paraná,Rural,2023-08-06,60,15.0,FOGAPY,Activo
+142,Beneficiario_142,Promandioca - CAH,713167077,Cosecha y almacenamiento,Organización legalmente constituida,Comercio,Alto Paraná,Urbano,2023-05-01,36,11.5,FOGAPY,En mora
+143,Beneficiario_143,CAH/Mercadeo,547403797,Ahorro obligatorio (Banca Comunal),Microempresa,Industrial,Canindeyú,Semiurbano,2023-03-24,96,13.0,FOGAMU,Activo
+144,Beneficiario_144,Banca Comunal,630888794,Recolección de aguas de lluvia,Microempresa,Agroindustrial,Alto Paraná,Semiurbano,2023-01-05,36,12.0,No tiene garantía,Finalizado
+145,Beneficiario_145,Mujer Emprendedora,412438887,Recolección de aguas de lluvia,Productor individual,Agroindustrial,Concepción,Urbano,2023-02-12,12,18.0,FOGAPY,En mora
+146,Beneficiario_146,Mbaretéra,551568062,Tratamiento de residuos sólidos y líquidos,Productor individual,Industrial,Paraguarí,Rural,2023-07-20,24,14.0,No tiene garantía,Finalizado
+147,Beneficiario_147,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,739369405,Capital operativo,Pequeña Empresa,Turismo,Alto Paraguay,Urbano,2023-10-14,24,12.0,FOGAMU,En mora
+148,Beneficiario_148,Ñepyrura 2.0,179291971,Energías renovables,Microempresa,Agroindustrial,Itapúa,Semiurbano,2023-05-01,24,12.0,No tiene garantía,Activo
+149,Beneficiario_149,Mujer Emprendedora,729706728,Energías renovables,Organización legalmente constituida,Servicios,Central,Rural,2023-11-05,84,18.0,FOGAMU,Activo
+150,Beneficiario_150,CAH/Mercadeo,4084129,Equipamiento turístico,Pequeña Empresa,Artesanal,Canindeyú,Urbano,2023-05-25,84,15.0,No tiene garantía,Activo
+151,Beneficiario_151,Turismo Rural,589994336,Otros,Pequeña Empresa,Agroindustrial,Boquerón,Periurbano,2023-03-31,108,10.0,FOGAMU,En mora
+152,Beneficiario_152,Para Micro y Pequeñas Empresas,703391423,Otros,Productor individual,Comercio,Caazapá,Urbano,2023-01-13,72,10.0,FOGAPY,Activo
+153,Beneficiario_153,Juventud Emprendedora,606016597,Equipamiento turístico,Pequeña Empresa,Agricultura Familiar Campesina,Concepción,Urbano,2023-01-28,84,11.5,FOGAPY,Finalizado
+154,Beneficiario_154,Banca Comunal,370122090,Ahorro obligatorio (Banca Comunal),Microempresa,Servicios,Caazapá,Urbano,2023-12-08,48,10.0,FOGAPY,En mora
+155,Beneficiario_155,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,429943632,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Artesanal,Cordillera,Semiurbano,2023-10-04,48,18.0,No tiene garantía,En mora
+156,Beneficiario_156,Proagro Banana,69752811,Capital operativo,Productor individual,Agroindustrial,Caazapá,Periurbano,2023-02-10,36,10.0,FOGAMU,Finalizado
+157,Beneficiario_157,Inversión Productiva 2.0 - FOGAPY,283992163,Tratamiento de residuos sólidos y líquidos,Microempresa,Servicios,Caaguazú,Periurbano,2023-05-10,36,13.0,FOGAMU,Finalizado
+158,Beneficiario_158,Turismo Rural 2.0 - Sello Verde,522399987,Energías renovables,Pequeña Empresa,Servicios,Alto Paraguay,Semiurbano,2023-07-23,48,13.0,FOGAPY,En mora
+159,Beneficiario_159,CAH/Mercadeo,196800985,Otros,Productor individual,Forestal,San Pedro,Periurbano,2023-05-22,108,15.0,FOGAMU,Finalizado
+160,Beneficiario_160,Turismo Rural 2.0 - Sello Verde,534764333,Infraestructura sustentable,Microempresa,Comercio,Caazapá,Semiurbano,2023-05-06,72,11.5,No tiene garantía,Activo
+161,Beneficiario_161,Proagro Banana,541643382,Capital de inversión,Pequeña Empresa,Turismo,San Pedro,Urbano,2023-09-15,36,10.0,FOGAPY,Finalizado
+162,Beneficiario_162,Mbaretéra,626435959,Infraestructura sustentable,Organización legalmente constituida,Comercio,Concepción,Urbano,2023-02-01,72,11.5,FOGAMU,En mora
+163,Beneficiario_163,Po Joasá,213655624,Infraestructura sustentable,Organización legalmente constituida,Comercio,Alto Paraguay,Rural,2023-05-04,24,18.0,FOGAPY,En mora
+164,Beneficiario_164,Banca Comunal,583891352,Infraestructura sustentable,Pequeña Empresa,Artesanal,Canindeyú,Semiurbano,2023-04-28,24,14.0,FOGAMU,Finalizado
+165,Beneficiario_165,Banca Comunal,332697907,Capital de inversión,Pequeña Empresa,Agroindustrial,Presidente Hayes,Rural,2023-12-03,24,13.0,No tiene garantía,En mora
+166,Beneficiario_166,Proagro Banana,260339424,Otros,Organización legalmente constituida,Forestal,Alto Paraguay,Rural,2023-04-01,120,15.0,FOGAMU,En mora
+167,Beneficiario_167,Crédito a Través del Descuento de Documento (CDD),360926783,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,Presidente Hayes,Periurbano,2023-07-06,12,18.0,FOGAMU,En mora
+168,Beneficiario_168,Turismo Rural,528472457,Ahorro obligatorio (Banca Comunal),Productor individual,Servicios,Canindeyú,Rural,2023-09-27,120,13.0,FOGAMU,En mora
+169,Beneficiario_169,CAH/Mercadeo,49201260,Desarrollo de microemprendimientos,Organización legalmente constituida,Comercio,Paraguarí,Semiurbano,2023-03-23,72,12.0,No tiene garantía,Finalizado
+170,Beneficiario_170,Kuña Ñamombarete Hagua - FOGAMU,244136414,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Industrial,Presidente Hayes,Semiurbano,2023-09-02,108,18.0,FOGAMU,Finalizado
+171,Beneficiario_171,Crédito a Través del Descuento de Documento (CDD),89480295,Capital de inversión,Organización legalmente constituida,Turismo,Guairá,Periurbano,2023-12-29,84,11.5,FOGAMU,Finalizado
+172,Beneficiario_172,Crédito a Través del Descuento de Documento (CDD),463114735,Energías renovables,Organización legalmente constituida,Agropecuario,Ñeembucú,Semiurbano,2023-09-18,24,12.0,No tiene garantía,Finalizado
+173,Beneficiario_173,Ñepyrura 2.0,331560227,Eficiencia energética,Pequeña Empresa,Agricultura Familiar Campesina,Ñeembucú,Semiurbano,2023-08-04,72,13.0,FOGAPY,Activo
+174,Beneficiario_174,Proagro Banana,695022892,Desarrollo de microemprendimientos,Pequeña Empresa,Servicios,Ñeembucú,Semiurbano,2023-10-17,108,10.0,FOGAMU,En mora
+175,Beneficiario_175,Kuña Ñamombarete Hagua - FOGAMU,685926798,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Artesanal,Caazapá,Urbano,2023-09-03,60,14.0,FOGAPY,Activo
+176,Beneficiario_176,Turismo Rural 2.0 - Sello Verde,189056833,Proyectos productivos rurales/urbanos,Pequeña Empresa,Comercio,Caazapá,Semiurbano,2023-06-02,84,12.0,No tiene garantía,En mora
+177,Beneficiario_177,Mujer Emprendedora,734533029,Equipamiento turístico,Productor individual,Servicios,Misiones,Urbano,2023-05-06,48,15.0,FOGAMU,En mora
+178,Beneficiario_178,Crédito a Través del Descuento de Documento (CDD),521117262,Tratamiento de residuos sólidos y líquidos,Productor individual,Agropecuario,Cordillera,Urbano,2023-11-07,120,11.5,FOGAPY,En mora
+179,Beneficiario_179,Banca Comunal,35246880,Energías renovables,Productor individual,Comercio,Alto Paraguay,Periurbano,2023-07-07,120,12.0,FOGAPY,En mora
+180,Beneficiario_180,Kuña Ñamombarete Hagua - FOGAMU,602918426,Cultivo sostenible de frutas y verduras,Productor individual,Artesanal,Asunción,Semiurbano,2023-06-21,84,14.0,FOGAPY,En mora
+181,Beneficiario_181,Kuña Ñamombarete Hagua - FOGAMU,732150371,Capital de inversión,Productor individual,Agroindustrial,Guairá,Periurbano,2023-06-27,24,15.0,FOGAPY,Activo
+182,Beneficiario_182,Promandioca - CAH,411566994,Eficiencia energética,Organización legalmente constituida,Industrial,Caaguazú,Semiurbano,2023-04-05,120,12.0,FOGAMU,Finalizado
+183,Beneficiario_183,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,267827049,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Forestal,Guairá,Periurbano,2023-07-27,24,18.0,FOGAPY,Activo
+184,Beneficiario_184,Turismo Rural 2.0 - Sello Verde,617085273,Recolección de aguas de lluvia,Pequeña Empresa,Industrial,Central,Rural,2023-04-12,24,14.0,FOGAPY,En mora
+185,Beneficiario_185,Banca Comunal,174762193,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Agricultura Familiar Campesina,Alto Paraguay,Rural,2023-07-09,108,15.0,FOGAPY,En mora
+186,Beneficiario_186,Turismo Rural,429638452,Cosecha y almacenamiento,Organización legalmente constituida,Agroindustrial,Itapúa,Urbano,2023-06-22,36,11.5,FOGAPY,Finalizado
+187,Beneficiario_187,Inversión Productiva 2.0 - FOGAPY,678163764,Energías renovables,Productor individual,Forestal,Amambay,Urbano,2023-05-07,120,15.0,FOGAPY,Activo
+188,Beneficiario_188,Turismo Rural 2.0 - Sello Verde,82048060,Energías renovables,Organización legalmente constituida,Turismo,Alto Paraguay,Periurbano,2023-03-27,84,11.5,No tiene garantía,En mora
+189,Beneficiario_189,Turismo Rural,699752990,Proyectos productivos rurales/urbanos,Microempresa,Servicios,Concepción,Semiurbano,2023-08-22,24,12.0,FOGAPY,Finalizado
+190,Beneficiario_190,Banca Comunal,496666428,Capital operativo,Microempresa,Industrial,Ñeembucú,Urbano,2023-09-17,72,11.5,FOGAMU,Activo
+191,Beneficiario_191,Ñepyrura 2.0,549550239,Equipamiento turístico,Organización legalmente constituida,Agricultura Familiar Campesina,Paraguarí,Semiurbano,2023-03-29,60,14.0,FOGAPY,En mora
+192,Beneficiario_192,Crédito a Través del Descuento de Documento (CDD),24471224,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Turismo,Guairá,Periurbano,2023-10-20,36,15.0,No tiene garantía,Finalizado
+193,Beneficiario_193,Yvy Ñamombarete Hagua,532535863,Infraestructura sustentable,Productor individual,Agropecuario,Cordillera,Semiurbano,2023-11-12,120,10.0,FOGAMU,Finalizado
+194,Beneficiario_194,Ñepyrura 2.0,185280730,Capital de inversión,Productor individual,Agropecuario,Boquerón,Urbano,2023-04-17,96,10.0,FOGAMU,Activo
+195,Beneficiario_195,Turismo Rural,568904517,Tratamiento de residuos sólidos y líquidos,Microempresa,Industrial,Paraguarí,Rural,2023-11-04,12,15.0,FOGAPY,En mora
+196,Beneficiario_196,Banca Comunal,48470215,Otros,Pequeña Empresa,Agricultura Familiar Campesina,Amambay,Periurbano,2023-03-06,60,18.0,FOGAMU,Activo
+197,Beneficiario_197,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,542350359,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Agropecuario,Cordillera,Periurbano,2023-01-04,36,15.0,FOGAPY,Activo
+198,Beneficiario_198,Ñepyrura 2.0,41484207,Infraestructura sustentable,Pequeña Empresa,Artesanal,Asunción,Urbano,2023-11-27,84,18.0,No tiene garantía,Activo
+199,Beneficiario_199,Para Micro y Pequeñas Empresas,590471961,Cosecha y almacenamiento,Pequeña Empresa,Industrial,Misiones,Urbano,2023-05-15,60,15.0,FOGAPY,En mora
+200,Beneficiario_200,Crédito a Través del Descuento de Documento (CDD),351824399,Equipamiento turístico,Microempresa,Agricultura Familiar Campesina,Misiones,Rural,2023-10-21,72,10.0,FOGAMU,En mora
+201,Beneficiario_201,Banca Comunal,117394755,Cosecha y almacenamiento,Productor individual,Servicios,Caazapá,Urbano,2023-03-02,72,14.0,FOGAPY,En mora
+202,Beneficiario_202,Para Micro y Pequeñas Empresas,290204884,Capital operativo,Microempresa,Servicios,Asunción,Urbano,2023-10-22,108,15.0,No tiene garantía,Activo
+203,Beneficiario_203,Mujer Emprendedora,334872042,Energías renovables,Pequeña Empresa,Agricultura Familiar Campesina,Paraguarí,Periurbano,2023-12-18,12,13.0,FOGAMU,En mora
+204,Beneficiario_204,Banca Comunal,82859508,Desarrollo de microemprendimientos,Productor individual,Forestal,Guairá,Rural,2023-11-24,84,14.0,FOGAPY,En mora
+205,Beneficiario_205,Inversión Productiva,17246111,Capital operativo,Microempresa,Turismo,Central,Urbano,2023-12-26,96,13.0,No tiene garantía,En mora
+206,Beneficiario_206,Mbaretéra,680563470,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Guairá,Urbano,2023-03-29,60,18.0,No tiene garantía,Finalizado
+207,Beneficiario_207,Para Micro y Pequeñas Empresas,359842599,Cosecha y almacenamiento,Pequeña Empresa,Industrial,Guairá,Periurbano,2023-01-25,48,18.0,FOGAMU,Finalizado
+208,Beneficiario_208,Po Joasá,96130136,Recolección de aguas de lluvia,Organización legalmente constituida,Industrial,Caazapá,Urbano,2023-10-19,48,13.0,No tiene garantía,Finalizado
+209,Beneficiario_209,Banca Comunal,505253863,Otros,Organización legalmente constituida,Artesanal,Boquerón,Periurbano,2023-12-21,72,13.0,FOGAPY,En mora
+210,Beneficiario_210,Crédito a Través del Descuento de Documento (CDD),493992180,Capital operativo,Microempresa,Industrial,Cordillera,Semiurbano,2023-12-16,60,11.5,FOGAPY,En mora
+211,Beneficiario_211,Kuña Ñamombarete Hagua - FOGAMU,310659338,Equipamiento turístico,Productor individual,Forestal,Caazapá,Semiurbano,2023-04-01,96,15.0,No tiene garantía,En mora
+212,Beneficiario_212,Mujer Emprendedora,662574905,Otros,Pequeña Empresa,Servicios,Paraguarí,Rural,2023-05-19,60,18.0,FOGAPY,Finalizado
+213,Beneficiario_213,Ñepyrura 2.0,137669071,Eficiencia energética,Productor individual,Industrial,Boquerón,Urbano,2023-12-11,48,11.5,FOGAPY,Finalizado
+214,Beneficiario_214,Yvy Ñamombarete Hagua,741362698,Cosecha y almacenamiento,Productor individual,Artesanal,San Pedro,Periurbano,2023-04-15,72,15.0,No tiene garantía,Finalizado
+215,Beneficiario_215,Para Micro y Pequeñas Empresas,437901265,Desarrollo de microemprendimientos,Pequeña Empresa,Forestal,Canindeyú,Urbano,2023-05-10,108,10.0,FOGAPY,En mora
+216,Beneficiario_216,Inversión Productiva 2.0 - FOGAPY,87648107,Otros,Productor individual,Agropecuario,Canindeyú,Semiurbano,2023-07-06,48,13.0,FOGAPY,Finalizado
+217,Beneficiario_217,Proagro Banana,547657174,Cultivo sostenible de frutas y verduras,Productor individual,Artesanal,Guairá,Periurbano,2023-06-04,96,13.0,No tiene garantía,Activo
+218,Beneficiario_218,Inversión Productiva,304507778,Desarrollo de microemprendimientos,Productor individual,Agroindustrial,Asunción,Rural,2023-09-26,120,10.0,FOGAMU,Activo
+219,Beneficiario_219,Yvy Ñamombarete Hagua,717170975,Tratamiento de residuos sólidos y líquidos,Microempresa,Artesanal,Caaguazú,Urbano,2023-11-18,108,15.0,No tiene garantía,Finalizado
+220,Beneficiario_220,Po Joasá,641709247,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Comercio,Cordillera,Semiurbano,2023-01-09,36,10.0,FOGAPY,Activo
+221,Beneficiario_221,Proagro CAH,653395967,Proyectos productivos rurales/urbanos,Microempresa,Forestal,Guairá,Periurbano,2023-11-04,84,10.0,FOGAMU,Finalizado
+222,Beneficiario_222,Inversión Productiva 2.0 - FOGAPY,266966195,Energías renovables,Productor individual,Artesanal,Misiones,Semiurbano,2023-08-09,120,11.5,No tiene garantía,Finalizado
+223,Beneficiario_223,Mbaretéra,448826503,Equipamiento turístico,Productor individual,Artesanal,Alto Paraná,Semiurbano,2023-10-13,96,14.0,FOGAPY,Finalizado
+224,Beneficiario_224,Yvy Ñamombarete Hagua,586099112,Equipamiento turístico,Pequeña Empresa,Comercio,Presidente Hayes,Periurbano,2023-02-18,108,13.0,FOGAPY,En mora
+225,Beneficiario_225,Yvy Ñamombarete Hagua,76672394,Infraestructura sustentable,Microempresa,Turismo,Asunción,Semiurbano,2023-10-21,84,12.0,FOGAMU,Finalizado
+226,Beneficiario_226,Turismo Rural,239559729,Energías renovables,Productor individual,Forestal,Alto Paraná,Rural,2023-11-03,60,10.0,FOGAMU,En mora
+227,Beneficiario_227,Mujer Emprendedora,222844888,Cultivo sostenible de frutas y verduras,Microempresa,Servicios,Cordillera,Periurbano,2023-05-10,24,13.0,FOGAPY,Finalizado
+228,Beneficiario_228,Mbaretéra,51140448,Recolección de aguas de lluvia,Microempresa,Turismo,Boquerón,Rural,2023-04-25,108,18.0,FOGAMU,En mora
+229,Beneficiario_229,Juventud Emprendedora,402522174,Desarrollo de microemprendimientos,Organización legalmente constituida,Servicios,Caaguazú,Rural,2023-10-29,108,12.0,FOGAPY,Activo
+230,Beneficiario_230,Para Micro y Pequeñas Empresas,151955258,Tratamiento de residuos sólidos y líquidos,Productor individual,Servicios,Itapúa,Rural,2023-12-30,72,12.0,No tiene garantía,Finalizado
+231,Beneficiario_231,Proagro Banana,281466445,Eficiencia energética,Microempresa,Servicios,Cordillera,Rural,2023-05-20,84,13.0,FOGAMU,Activo
+232,Beneficiario_232,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,407961357,Equipamiento turístico,Productor individual,Industrial,Cordillera,Urbano,2023-03-24,72,13.0,FOGAPY,Activo
+233,Beneficiario_233,Crédito a Través del Descuento de Documento (CDD),511404982,Otros,Microempresa,Artesanal,Ñeembucú,Urbano,2023-10-21,108,12.0,No tiene garantía,En mora
+234,Beneficiario_234,Crédito a Través del Descuento de Documento (CDD),373473950,Proyectos productivos rurales/urbanos,Pequeña Empresa,Forestal,Paraguarí,Semiurbano,2023-09-29,108,14.0,FOGAPY,Activo
+235,Beneficiario_235,Yvy Ñamombarete Hagua,635219384,Capital de inversión,Microempresa,Agropecuario,Itapúa,Semiurbano,2023-10-01,108,12.0,FOGAPY,Finalizado
+236,Beneficiario_236,Ñepyrura 2.0,149623384,Ahorro obligatorio (Banca Comunal),Productor individual,Agroindustrial,Ñeembucú,Urbano,2023-06-08,12,14.0,FOGAMU,En mora
+237,Beneficiario_237,Turismo Rural 2.0 - Sello Verde,257660536,Energías renovables,Pequeña Empresa,Industrial,Alto Paraná,Rural,2023-09-27,108,15.0,No tiene garantía,En mora
+238,Beneficiario_238,Inversión Productiva 2.0 - FOGAPY,277681538,Energías renovables,Productor individual,Industrial,Presidente Hayes,Rural,2023-06-17,96,14.0,FOGAPY,Finalizado
+239,Beneficiario_239,Po Joasá,91462932,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Servicios,Itapúa,Semiurbano,2023-01-09,60,15.0,FOGAMU,Finalizado
+240,Beneficiario_240,Para Micro y Pequeñas Empresas,609043743,Capital operativo,Organización legalmente constituida,Turismo,Presidente Hayes,Periurbano,2023-04-13,108,10.0,FOGAPY,Activo
+241,Beneficiario_241,Kuña Ñamombarete Hagua - FOGAMU,398147047,Cosecha y almacenamiento,Microempresa,Forestal,Ñeembucú,Semiurbano,2023-10-05,24,14.0,FOGAPY,Finalizado
+242,Beneficiario_242,Mujer Emprendedora,717914762,Energías renovables,Pequeña Empresa,Forestal,Guairá,Rural,2023-07-03,120,18.0,FOGAPY,Activo
+243,Beneficiario_243,Inversión Productiva,609344602,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,San Pedro,Periurbano,2023-12-07,120,10.0,No tiene garantía,En mora
+244,Beneficiario_244,Turismo Rural 2.0 - Sello Verde,153187437,Cultivo sostenible de frutas y verduras,Microempresa,Industrial,Caaguazú,Rural,2023-04-25,72,15.0,FOGAPY,Activo
+245,Beneficiario_245,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,31445030,Recolección de aguas de lluvia,Pequeña Empresa,Forestal,Ñeembucú,Semiurbano,2023-07-16,96,13.0,FOGAPY,En mora
+246,Beneficiario_246,Yvy Ñamombarete Hagua,12598177,Equipamiento turístico,Microempresa,Turismo,San Pedro,Semiurbano,2023-06-29,108,11.5,No tiene garantía,En mora
+247,Beneficiario_247,Turismo Rural 2.0 - Sello Verde,375823451,Capital de inversión,Organización legalmente constituida,Forestal,Boquerón,Semiurbano,2023-04-06,120,12.0,FOGAPY,En mora
+248,Beneficiario_248,Juventud Emprendedora,502783441,Capital de inversión,Productor individual,Industrial,Guairá,Urbano,2023-11-22,72,18.0,FOGAPY,En mora
+249,Beneficiario_249,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,322362902,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agricultura Familiar Campesina,Canindeyú,Periurbano,2023-03-14,24,10.0,FOGAPY,En mora
+250,Beneficiario_250,Inversión Productiva 2.0 - FOGAPY,297901609,Capital de inversión,Productor individual,Agroindustrial,Concepción,Semiurbano,2023-09-11,36,14.0,FOGAPY,Finalizado
+251,Beneficiario_251,Proagro Banana,660386013,Recolección de aguas de lluvia,Organización legalmente constituida,Servicios,Caaguazú,Semiurbano,2023-09-19,60,10.0,FOGAPY,Activo
+252,Beneficiario_252,Proagro Banana,110092031,Otros,Organización legalmente constituida,Comercio,Presidente Hayes,Rural,2023-09-26,96,18.0,FOGAMU,En mora
+253,Beneficiario_253,CAH/Mercadeo,400677183,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Turismo,San Pedro,Rural,2023-07-20,72,10.0,FOGAPY,Activo
+254,Beneficiario_254,Mujer Emprendedora,591459433,Equipamiento turístico,Microempresa,Agropecuario,San Pedro,Periurbano,2023-05-12,24,14.0,FOGAPY,Activo
+255,Beneficiario_255,Inversión Productiva 2.0 - FOGAPY,642975755,Cosecha y almacenamiento,Productor individual,Agricultura Familiar Campesina,San Pedro,Urbano,2023-08-31,108,15.0,FOGAPY,En mora
+256,Beneficiario_256,Ñepyrura 2.0,89518551,Equipamiento turístico,Organización legalmente constituida,Comercio,Presidente Hayes,Urbano,2023-04-16,24,13.0,FOGAPY,Finalizado
+257,Beneficiario_257,Juventud Emprendedora,147919885,Infraestructura sustentable,Pequeña Empresa,Comercio,Central,Periurbano,2023-12-23,120,15.0,FOGAPY,Activo
+258,Beneficiario_258,Mujer Emprendedora,111777097,Capital de inversión,Pequeña Empresa,Forestal,Canindeyú,Semiurbano,2023-01-16,120,13.0,No tiene garantía,Finalizado
+259,Beneficiario_259,CAH/Mercadeo,123723480,Tratamiento de residuos sólidos y líquidos,Microempresa,Artesanal,Ñeembucú,Periurbano,2023-06-03,60,10.0,FOGAPY,En mora
+260,Beneficiario_260,Juventud Emprendedora,50663162,Cosecha y almacenamiento,Pequeña Empresa,Forestal,Caaguazú,Semiurbano,2023-02-06,60,14.0,FOGAMU,Finalizado
+261,Beneficiario_261,Turismo Rural 2.0 - Sello Verde,183909709,Eficiencia energética,Productor individual,Industrial,Asunción,Periurbano,2023-03-12,120,15.0,FOGAPY,Activo
+262,Beneficiario_262,Para Micro y Pequeñas Empresas,322508528,Otros,Pequeña Empresa,Servicios,Concepción,Rural,2023-02-09,72,15.0,FOGAPY,Activo
+263,Beneficiario_263,Kuña Ñamombarete Hagua - FOGAMU,285607901,Recolección de aguas de lluvia,Microempresa,Comercio,Presidente Hayes,Rural,2023-12-04,24,13.0,FOGAMU,En mora
+264,Beneficiario_264,Proagro CAH,521807705,Tratamiento de residuos sólidos y líquidos,Productor individual,Turismo,Misiones,Periurbano,2023-09-04,60,18.0,No tiene garantía,En mora
+265,Beneficiario_265,Inversión Productiva 2.0 - FOGAPY,662473019,Cosecha y almacenamiento,Productor individual,Servicios,Caazapá,Periurbano,2023-02-21,12,15.0,No tiene garantía,Finalizado
+266,Beneficiario_266,Turismo Rural 2.0 - Sello Verde,118600739,Energías renovables,Productor individual,Comercio,Central,Urbano,2023-09-18,12,11.5,No tiene garantía,Finalizado
+267,Beneficiario_267,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,513848317,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Industrial,Amambay,Urbano,2023-12-03,120,10.0,FOGAPY,En mora
+268,Beneficiario_268,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,691461282,Equipamiento turístico,Pequeña Empresa,Industrial,Concepción,Rural,2023-11-29,36,15.0,FOGAPY,Activo
+269,Beneficiario_269,Crédito a Través del Descuento de Documento (CDD),554176644,Cultivo sostenible de frutas y verduras,Productor individual,Agropecuario,Boquerón,Semiurbano,2023-08-12,36,13.0,FOGAPY,Finalizado
+270,Beneficiario_270,Po Joasá,523999938,Cosecha y almacenamiento,Organización legalmente constituida,Industrial,Paraguarí,Semiurbano,2023-08-11,36,11.5,FOGAMU,Activo
+271,Beneficiario_271,Turismo Rural,500967269,Recolección de aguas de lluvia,Productor individual,Agroindustrial,Caaguazú,Periurbano,2023-12-21,60,10.0,FOGAMU,Finalizado
+272,Beneficiario_272,Promandioca - CAH,438164778,Tratamiento de residuos sólidos y líquidos,Microempresa,Agropecuario,Alto Paraná,Semiurbano,2023-09-28,48,10.0,No tiene garantía,Activo
+273,Beneficiario_273,Inversión Productiva,84197526,Desarrollo de microemprendimientos,Productor individual,Servicios,Central,Urbano,2023-05-24,108,14.0,No tiene garantía,Activo
+274,Beneficiario_274,Kuña Ñamombarete Hagua - FOGAMU,304208525,Recolección de aguas de lluvia,Organización legalmente constituida,Industrial,Caazapá,Urbano,2023-07-04,96,12.0,FOGAPY,En mora
+275,Beneficiario_275,Para Micro y Pequeñas Empresas,65068557,Cosecha y almacenamiento,Pequeña Empresa,Forestal,Alto Paraná,Semiurbano,2023-10-04,96,13.0,FOGAPY,En mora
+276,Beneficiario_276,Banca Comunal,84068389,Otros,Microempresa,Servicios,Cordillera,Rural,2023-08-22,72,18.0,FOGAMU,Activo
+277,Beneficiario_277,Kuña Ñamombarete Hagua - FOGAMU,313153990,Desarrollo de microemprendimientos,Organización legalmente constituida,Industrial,Concepción,Rural,2023-11-02,12,11.5,FOGAMU,Finalizado
+278,Beneficiario_278,Kuña Ñamombarete Hagua - FOGAMU,652537710,Tratamiento de residuos sólidos y líquidos,Microempresa,Industrial,Guairá,Periurbano,2023-03-07,36,15.0,No tiene garantía,Activo
+279,Beneficiario_279,Inversión Productiva 2.0 - FOGAPY,493944607,Cosecha y almacenamiento,Organización legalmente constituida,Agricultura Familiar Campesina,Paraguarí,Urbano,2023-03-28,48,12.0,FOGAPY,Finalizado
+280,Beneficiario_280,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,128487161,Capital de inversión,Pequeña Empresa,Artesanal,Caaguazú,Periurbano,2023-03-31,72,18.0,No tiene garantía,Activo
+281,Beneficiario_281,Proagro CAH,127483787,Cultivo sostenible de frutas y verduras,Microempresa,Forestal,Amambay,Periurbano,2023-04-15,120,11.5,FOGAPY,En mora
+282,Beneficiario_282,Crédito a Través del Descuento de Documento (CDD),216250726,Cosecha y almacenamiento,Microempresa,Artesanal,Guairá,Periurbano,2023-08-04,36,15.0,No tiene garantía,Activo
+283,Beneficiario_283,Para Micro y Pequeñas Empresas,605910482,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Turismo,Itapúa,Periurbano,2023-07-15,108,14.0,FOGAPY,Activo
+284,Beneficiario_284,Proagro CAH,508292589,Capital operativo,Pequeña Empresa,Servicios,Alto Paraná,Periurbano,2023-12-29,48,12.0,FOGAMU,Activo
+285,Beneficiario_285,Turismo Rural 2.0 - Sello Verde,463753818,Recolección de aguas de lluvia,Organización legalmente constituida,Comercio,Presidente Hayes,Semiurbano,2023-07-03,48,11.5,No tiene garantía,En mora
+286,Beneficiario_286,Proagro CAH,256749431,Capital de inversión,Productor individual,Artesanal,Cordillera,Urbano,2023-04-02,24,15.0,FOGAPY,Finalizado
+287,Beneficiario_287,Para Micro y Pequeñas Empresas,34010346,Cosecha y almacenamiento,Productor individual,Comercio,Misiones,Urbano,2023-07-26,48,10.0,FOGAMU,Finalizado
+288,Beneficiario_288,Mujer Emprendedora,489681922,Proyectos productivos rurales/urbanos,Microempresa,Industrial,Amambay,Rural,2023-12-07,60,18.0,FOGAMU,En mora
+289,Beneficiario_289,CAH/Mercadeo,268695581,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Artesanal,Concepción,Urbano,2023-02-25,60,18.0,FOGAPY,En mora
+290,Beneficiario_290,Promandioca - CAH,704333001,Desarrollo de microemprendimientos,Productor individual,Comercio,Itapúa,Urbano,2023-01-17,60,11.5,No tiene garantía,Finalizado
+291,Beneficiario_291,Promandioca - CAH,141738769,Capital operativo,Microempresa,Comercio,Amambay,Rural,2023-12-12,84,13.0,FOGAMU,En mora
+292,Beneficiario_292,Turismo Rural 2.0 - Sello Verde,601912758,Capital operativo,Organización legalmente constituida,Agroindustrial,Central,Periurbano,2023-04-30,12,11.5,FOGAMU,Finalizado
+293,Beneficiario_293,CAH/Mercadeo,511930325,Capital de inversión,Pequeña Empresa,Agroindustrial,Presidente Hayes,Rural,2023-06-03,96,11.5,FOGAMU,En mora
+294,Beneficiario_294,Po Joasá,507879729,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Turismo,Itapúa,Semiurbano,2023-07-17,60,12.0,FOGAPY,Finalizado
+295,Beneficiario_295,Proagro Banana,199624161,Proyectos productivos rurales/urbanos,Organización legalmente constituida,Comercio,San Pedro,Rural,2023-05-20,48,14.0,No tiene garantía,Activo
+296,Beneficiario_296,Proagro Banana,516200526,Energías renovables,Organización legalmente constituida,Forestal,Misiones,Rural,2023-01-09,96,11.5,FOGAPY,Finalizado
+297,Beneficiario_297,Po Joasá,324406144,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agricultura Familiar Campesina,Alto Paraná,Semiurbano,2023-07-25,72,12.0,FOGAPY,En mora
+298,Beneficiario_298,Yvy Ñamombarete Hagua,568753336,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Forestal,Caazapá,Urbano,2023-04-11,72,18.0,FOGAMU,Activo
+299,Beneficiario_299,Po Joasá,565648127,Recolección de aguas de lluvia,Microempresa,Agricultura Familiar Campesina,Asunción,Semiurbano,2023-09-02,24,13.0,FOGAMU,Activo
+300,Beneficiario_300,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,544923045,Infraestructura sustentable,Microempresa,Industrial,Canindeyú,Semiurbano,2023-09-06,36,18.0,FOGAMU,Finalizado
+301,Beneficiario_301,Turismo Rural,567627712,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,Guairá,Urbano,2023-06-17,48,13.0,FOGAMU,Finalizado
+302,Beneficiario_302,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,178659917,Capital operativo,Pequeña Empresa,Agroindustrial,Amambay,Semiurbano,2023-07-15,96,10.0,FOGAMU,Finalizado
+303,Beneficiario_303,Mbaretéra,335958254,Recolección de aguas de lluvia,Productor individual,Servicios,Central,Rural,2023-12-22,48,14.0,FOGAPY,En mora
+304,Beneficiario_304,Yvy Ñamombarete Hagua,596954322,Capital operativo,Microempresa,Industrial,Misiones,Periurbano,2023-08-10,72,14.0,No tiene garantía,En mora
+305,Beneficiario_305,Promandioca - CAH,332695336,Ahorro obligatorio (Banca Comunal),Microempresa,Comercio,Guairá,Urbano,2023-07-26,84,18.0,No tiene garantía,En mora
+306,Beneficiario_306,Proagro CAH,383574205,Capital operativo,Microempresa,Agricultura Familiar Campesina,Canindeyú,Urbano,2023-01-03,60,14.0,FOGAMU,En mora
+307,Beneficiario_307,Banca Comunal,487783243,Eficiencia energética,Productor individual,Turismo,Asunción,Semiurbano,2023-05-17,108,11.5,FOGAPY,Finalizado
+308,Beneficiario_308,Promandioca - CAH,408182795,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Guairá,Periurbano,2023-09-05,84,13.0,FOGAMU,En mora
+309,Beneficiario_309,Para Micro y Pequeñas Empresas,96015902,Eficiencia energética,Pequeña Empresa,Turismo,Cordillera,Urbano,2023-09-15,36,14.0,FOGAPY,Activo
+310,Beneficiario_310,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,410958334,Capital operativo,Organización legalmente constituida,Servicios,San Pedro,Rural,2023-01-14,36,15.0,FOGAPY,Finalizado
+311,Beneficiario_311,Proagro Banana,735188438,Cosecha y almacenamiento,Pequeña Empresa,Comercio,Misiones,Periurbano,2023-01-11,60,11.5,No tiene garantía,Activo
+312,Beneficiario_312,Promandioca - CAH,731775775,Otros,Organización legalmente constituida,Forestal,San Pedro,Rural,2023-10-09,96,11.5,FOGAPY,Activo
+313,Beneficiario_313,CAH/Mercadeo,563200740,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Forestal,Cordillera,Periurbano,2023-10-06,72,18.0,FOGAMU,En mora
+314,Beneficiario_314,Ñepyrura 2.0,685783610,Infraestructura sustentable,Productor individual,Agropecuario,Caaguazú,Rural,2023-10-12,36,18.0,No tiene garantía,En mora
+315,Beneficiario_315,Turismo Rural,12025996,Energías renovables,Microempresa,Forestal,Caazapá,Periurbano,2023-06-23,108,14.0,FOGAMU,Activo
+316,Beneficiario_316,Inversión Productiva,627169267,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Artesanal,Boquerón,Rural,2023-09-27,120,11.5,No tiene garantía,En mora
+317,Beneficiario_317,Inversión Productiva 2.0 - FOGAPY,551962115,Desarrollo de microemprendimientos,Organización legalmente constituida,Agropecuario,Alto Paraná,Urbano,2023-03-19,24,12.0,FOGAPY,En mora
+318,Beneficiario_318,Crédito a Través del Descuento de Documento (CDD),523611396,Tratamiento de residuos sólidos y líquidos,Productor individual,Agroindustrial,Boquerón,Periurbano,2023-07-10,60,12.0,No tiene garantía,Finalizado
+319,Beneficiario_319,Juventud Emprendedora,111741836,Capital operativo,Microempresa,Forestal,Presidente Hayes,Periurbano,2023-08-14,48,12.0,FOGAPY,Finalizado
+320,Beneficiario_320,Proagro CAH,265605871,Infraestructura sustentable,Organización legalmente constituida,Agricultura Familiar Campesina,Paraguarí,Rural,2023-01-03,72,13.0,No tiene garantía,En mora
+321,Beneficiario_321,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,221208619,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Agricultura Familiar Campesina,Canindeyú,Rural,2023-06-24,12,14.0,FOGAPY,Activo
+322,Beneficiario_322,Po Joasá,213713750,Otros,Microempresa,Agroindustrial,Alto Paraguay,Semiurbano,2023-10-28,108,13.0,FOGAMU,Activo
+323,Beneficiario_323,Proagro CAH,695767100,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Artesanal,Central,Urbano,2023-10-16,60,10.0,FOGAPY,En mora
+324,Beneficiario_324,Turismo Rural,135374759,Cosecha y almacenamiento,Organización legalmente constituida,Comercio,Amambay,Semiurbano,2023-09-08,108,14.0,FOGAPY,Finalizado
+325,Beneficiario_325,Proagro CAH,435421233,Proyectos productivos rurales/urbanos,Organización legalmente constituida,Turismo,Cordillera,Rural,2023-09-10,120,12.0,No tiene garantía,Finalizado
+326,Beneficiario_326,CAH/Mercadeo,636063442,Capital de inversión,Microempresa,Forestal,Asunción,Semiurbano,2023-05-23,120,15.0,FOGAPY,Finalizado
+327,Beneficiario_327,Turismo Rural 2.0 - Sello Verde,16906361,Capital operativo,Pequeña Empresa,Forestal,Amambay,Urbano,2023-02-26,48,10.0,FOGAPY,Finalizado
+328,Beneficiario_328,Para Micro y Pequeñas Empresas,693483508,Equipamiento turístico,Pequeña Empresa,Agropecuario,Caaguazú,Rural,2023-04-23,36,12.0,No tiene garantía,Finalizado
+329,Beneficiario_329,Proagro CAH,175049889,Cultivo sostenible de frutas y verduras,Productor individual,Agroindustrial,Amambay,Periurbano,2023-12-24,84,12.0,No tiene garantía,En mora
+330,Beneficiario_330,Po Joasá,672075796,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Agricultura Familiar Campesina,Canindeyú,Rural,2023-12-08,12,10.0,No tiene garantía,Activo
+331,Beneficiario_331,Po Joasá,549323566,Energías renovables,Productor individual,Comercio,Ñeembucú,Semiurbano,2023-12-27,24,10.0,FOGAMU,En mora
+332,Beneficiario_332,Banca Comunal,626574776,Energías renovables,Microempresa,Forestal,Alto Paraná,Periurbano,2023-10-13,72,13.0,FOGAPY,Activo
+333,Beneficiario_333,Promandioca - CAH,726014772,Otros,Productor individual,Servicios,Caaguazú,Periurbano,2023-04-27,48,18.0,FOGAMU,Finalizado
+334,Beneficiario_334,Para Micro y Pequeñas Empresas,518083068,Equipamiento turístico,Microempresa,Artesanal,Caazapá,Semiurbano,2023-08-24,48,13.0,FOGAPY,En mora
+335,Beneficiario_335,Banca Comunal,407289696,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Comercio,Alto Paraguay,Periurbano,2023-02-10,72,12.0,FOGAMU,Finalizado
+336,Beneficiario_336,Mbaretéra,341883687,Infraestructura sustentable,Pequeña Empresa,Agricultura Familiar Campesina,Alto Paraguay,Periurbano,2023-04-04,84,15.0,FOGAMU,Activo
+337,Beneficiario_337,Kuña Ñamombarete Hagua - FOGAMU,166482335,Capital de inversión,Productor individual,Artesanal,Misiones,Rural,2023-03-20,36,10.0,FOGAMU,Activo
+338,Beneficiario_338,CAH/Mercadeo,35531105,Cultivo sostenible de frutas y verduras,Microempresa,Forestal,Asunción,Periurbano,2023-01-08,108,11.5,No tiene garantía,Finalizado
+339,Beneficiario_339,Turismo Rural,468824186,Infraestructura sustentable,Organización legalmente constituida,Turismo,Presidente Hayes,Semiurbano,2023-04-16,72,11.5,FOGAPY,Finalizado
+340,Beneficiario_340,Inversión Productiva 2.0 - FOGAPY,604924631,Equipamiento turístico,Productor individual,Turismo,Paraguarí,Rural,2023-02-13,60,15.0,No tiene garantía,En mora
+341,Beneficiario_341,Po Joasá,641411383,Eficiencia energética,Productor individual,Industrial,Boquerón,Periurbano,2023-01-06,48,11.5,FOGAMU,Finalizado
+342,Beneficiario_342,Yvy Ñamombarete Hagua,430773521,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Agropecuario,Amambay,Urbano,2023-05-19,12,13.0,No tiene garantía,Activo
+343,Beneficiario_343,Turismo Rural 2.0 - Sello Verde,497802236,Recolección de aguas de lluvia,Microempresa,Comercio,Ñeembucú,Periurbano,2023-02-24,120,13.0,FOGAMU,Finalizado
+344,Beneficiario_344,Ñepyrura 2.0,254880382,Energías renovables,Organización legalmente constituida,Industrial,Ñeembucú,Semiurbano,2023-05-06,72,18.0,No tiene garantía,En mora
+345,Beneficiario_345,Mujer Emprendedora,185446129,Recolección de aguas de lluvia,Microempresa,Agricultura Familiar Campesina,Alto Paraguay,Periurbano,2023-05-28,36,18.0,FOGAMU,Activo
+346,Beneficiario_346,Mujer Emprendedora,169537423,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Canindeyú,Semiurbano,2023-10-20,12,11.5,FOGAPY,Activo
+347,Beneficiario_347,Promandioca - CAH,181066882,Capital de inversión,Microempresa,Agricultura Familiar Campesina,Central,Periurbano,2023-09-15,60,15.0,FOGAPY,Finalizado
+348,Beneficiario_348,Inversión Productiva,191273475,Recolección de aguas de lluvia,Microempresa,Turismo,Paraguarí,Periurbano,2023-10-07,48,11.5,FOGAPY,Finalizado
+349,Beneficiario_349,Kuña Ñamombarete Hagua - FOGAMU,210372253,Capital operativo,Organización legalmente constituida,Servicios,Presidente Hayes,Urbano,2023-01-31,96,18.0,FOGAPY,En mora
+350,Beneficiario_350,Proagro CAH,623198001,Tratamiento de residuos sólidos y líquidos,Organización legalmente constituida,Forestal,Caazapá,Rural,2023-11-16,24,11.5,FOGAPY,En mora
+351,Beneficiario_351,Proagro CAH,376802608,Infraestructura sustentable,Microempresa,Servicios,Paraguarí,Semiurbano,2023-02-23,12,18.0,FOGAPY,Finalizado
+352,Beneficiario_352,Mbaretéra,472408127,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Agropecuario,Caazapá,Periurbano,2023-08-18,84,14.0,FOGAMU,Finalizado
+353,Beneficiario_353,Proagro Banana,411941237,Tratamiento de residuos sólidos y líquidos,Microempresa,Forestal,Boquerón,Semiurbano,2023-07-03,72,15.0,No tiene garantía,En mora
+354,Beneficiario_354,Kuña Ñamombarete Hagua - FOGAMU,653387445,Energías renovables,Microempresa,Agricultura Familiar Campesina,Alto Paraguay,Periurbano,2023-12-08,36,14.0,No tiene garantía,Activo
+355,Beneficiario_355,Banca Comunal,11942344,Desarrollo de microemprendimientos,Pequeña Empresa,Forestal,Cordillera,Periurbano,2023-03-15,72,13.0,FOGAMU,Finalizado
+356,Beneficiario_356,Proagro CAH,250261026,Cosecha y almacenamiento,Productor individual,Turismo,Ñeembucú,Periurbano,2023-10-23,96,14.0,FOGAPY,Finalizado
+357,Beneficiario_357,Proagro Banana,30594360,Infraestructura sustentable,Productor individual,Agroindustrial,Cordillera,Rural,2023-02-24,120,11.5,No tiene garantía,En mora
+358,Beneficiario_358,Para Micro y Pequeñas Empresas,658351381,Capital operativo,Productor individual,Industrial,Asunción,Rural,2023-09-23,12,11.5,No tiene garantía,Finalizado
+359,Beneficiario_359,Promandioca - CAH,419305266,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Industrial,Paraguarí,Periurbano,2023-01-10,24,11.5,FOGAMU,Activo
+360,Beneficiario_360,Turismo Rural 2.0 - Sello Verde,467884673,Energías renovables,Organización legalmente constituida,Comercio,Central,Periurbano,2023-07-01,120,18.0,FOGAMU,En mora
+361,Beneficiario_361,Turismo Rural 2.0 - Sello Verde,521446859,Cultivo sostenible de frutas y verduras,Productor individual,Agropecuario,Concepción,Rural,2023-06-15,96,12.0,FOGAPY,Finalizado
+362,Beneficiario_362,Turismo Rural 2.0 - Sello Verde,421380935,Energías renovables,Organización legalmente constituida,Agroindustrial,Itapúa,Semiurbano,2023-06-10,96,12.0,FOGAPY,Activo
+363,Beneficiario_363,Crédito a Través del Descuento de Documento (CDD),110732125,Eficiencia energética,Organización legalmente constituida,Servicios,Guairá,Urbano,2023-05-01,84,18.0,FOGAPY,Activo
+364,Beneficiario_364,Kuña Ñamombarete Hagua - FOGAMU,342324755,Otros,Pequeña Empresa,Agricultura Familiar Campesina,Concepción,Rural,2023-12-26,48,13.0,FOGAPY,En mora
+365,Beneficiario_365,CAH/Mercadeo,707767225,Capital operativo,Productor individual,Comercio,Presidente Hayes,Urbano,2023-07-25,108,14.0,No tiene garantía,Activo
+366,Beneficiario_366,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,193763139,Cultivo sostenible de frutas y verduras,Microempresa,Servicios,Misiones,Urbano,2023-03-19,96,10.0,FOGAMU,Activo
+367,Beneficiario_367,Turismo Rural,604381601,Otros,Microempresa,Forestal,Concepción,Periurbano,2023-09-03,108,11.5,FOGAPY,Finalizado
+368,Beneficiario_368,Turismo Rural,309531205,Capital de inversión,Organización legalmente constituida,Comercio,Paraguarí,Urbano,2023-11-05,96,14.0,No tiene garantía,Finalizado
+369,Beneficiario_369,Turismo Rural,408398175,Energías renovables,Microempresa,Artesanal,Paraguarí,Rural,2023-10-06,72,10.0,FOGAPY,Activo
+370,Beneficiario_370,Banca Comunal,670140527,Proyectos productivos rurales/urbanos,Microempresa,Industrial,Ñeembucú,Semiurbano,2023-05-19,84,14.0,FOGAMU,En mora
+371,Beneficiario_371,Yvy Ñamombarete Hagua,211707825,Desarrollo de microemprendimientos,Microempresa,Comercio,Concepción,Urbano,2023-04-14,12,10.0,FOGAMU,Finalizado
+372,Beneficiario_372,Proagro Banana,522763330,Infraestructura sustentable,Pequeña Empresa,Agricultura Familiar Campesina,Itapúa,Periurbano,2023-08-03,120,12.0,FOGAMU,En mora
+373,Beneficiario_373,Para Micro y Pequeñas Empresas,317944639,Capital de inversión,Organización legalmente constituida,Comercio,Caaguazú,Rural,2023-07-26,120,10.0,FOGAMU,En mora
+374,Beneficiario_374,Proagro Banana,574375848,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agropecuario,Guairá,Rural,2023-06-17,12,15.0,FOGAMU,Finalizado
+375,Beneficiario_375,Para Micro y Pequeñas Empresas,640679161,Capital operativo,Productor individual,Industrial,Boquerón,Urbano,2023-10-06,12,14.0,FOGAMU,Activo
+376,Beneficiario_376,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,345796413,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Artesanal,Guairá,Periurbano,2023-02-06,72,13.0,FOGAPY,Finalizado
+377,Beneficiario_377,Promandioca - CAH,251913087,Tratamiento de residuos sólidos y líquidos,Microempresa,Comercio,Amambay,Rural,2023-08-27,12,11.5,FOGAMU,En mora
+378,Beneficiario_378,Para Micro y Pequeñas Empresas,55086225,Tratamiento de residuos sólidos y líquidos,Microempresa,Servicios,Boquerón,Semiurbano,2023-01-15,96,11.5,FOGAPY,En mora
+379,Beneficiario_379,Po Joasá,202225753,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Guairá,Periurbano,2023-03-11,12,12.0,FOGAMU,Finalizado
+380,Beneficiario_380,CAH/Mercadeo,410276886,Proyectos productivos rurales/urbanos,Microempresa,Turismo,Caaguazú,Urbano,2023-12-10,12,13.0,No tiene garantía,En mora
+381,Beneficiario_381,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,26659450,Proyectos productivos rurales/urbanos,Productor individual,Artesanal,Presidente Hayes,Rural,2023-05-21,108,13.0,No tiene garantía,Activo
+382,Beneficiario_382,Mbaretéra,638435227,Infraestructura sustentable,Organización legalmente constituida,Agropecuario,San Pedro,Rural,2023-07-20,72,12.0,FOGAPY,Activo
+383,Beneficiario_383,Ñepyrura 2.0,440871152,Proyectos productivos rurales/urbanos,Pequeña Empresa,Agricultura Familiar Campesina,San Pedro,Urbano,2023-12-10,12,14.0,FOGAMU,Activo
+384,Beneficiario_384,Po Joasá,549397563,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Servicios,Alto Paraguay,Periurbano,2023-03-07,96,10.0,FOGAMU,Finalizado
+385,Beneficiario_385,Mujer Emprendedora,713433389,Capital operativo,Pequeña Empresa,Turismo,San Pedro,Semiurbano,2023-05-12,12,15.0,FOGAMU,Activo
+386,Beneficiario_386,Mbaretéra,29632821,Infraestructura sustentable,Productor individual,Artesanal,Central,Urbano,2023-11-27,60,13.0,No tiene garantía,En mora
+387,Beneficiario_387,Kuña Ñamombarete Hagua - FOGAMU,514523580,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Agroindustrial,Presidente Hayes,Periurbano,2023-11-14,96,18.0,No tiene garantía,Finalizado
+388,Beneficiario_388,Turismo Rural 2.0 - Sello Verde,191943472,Capital operativo,Microempresa,Industrial,Canindeyú,Urbano,2023-07-12,96,15.0,No tiene garantía,En mora
+389,Beneficiario_389,Juventud Emprendedora,391887676,Cosecha y almacenamiento,Productor individual,Comercio,Canindeyú,Urbano,2023-08-18,96,15.0,FOGAPY,En mora
+390,Beneficiario_390,Po Joasá,41624033,Ahorro obligatorio (Banca Comunal),Productor individual,Industrial,Concepción,Periurbano,2023-01-03,72,10.0,FOGAPY,Activo
+391,Beneficiario_391,Promandioca - CAH,689446666,Cosecha y almacenamiento,Productor individual,Servicios,Paraguarí,Periurbano,2023-08-16,48,15.0,FOGAPY,Finalizado
+392,Beneficiario_392,Proagro CAH,565851590,Recolección de aguas de lluvia,Productor individual,Servicios,Paraguarí,Semiurbano,2023-05-12,12,11.5,FOGAPY,Activo
+393,Beneficiario_393,Mbaretéra,582124441,Capital operativo,Organización legalmente constituida,Comercio,Caazapá,Periurbano,2023-09-15,12,14.0,No tiene garantía,Activo
+394,Beneficiario_394,Kuña Ñamombarete Hagua - FOGAMU,333817616,Proyectos productivos rurales/urbanos,Productor individual,Agricultura Familiar Campesina,Boquerón,Rural,2023-10-02,36,15.0,FOGAMU,En mora
+395,Beneficiario_395,Crédito a Través del Descuento de Documento (CDD),68909230,Desarrollo de microemprendimientos,Organización legalmente constituida,Turismo,Concepción,Rural,2023-04-27,60,11.5,No tiene garantía,Activo
+396,Beneficiario_396,Ñepyrura 2.0,665783033,Cosecha y almacenamiento,Productor individual,Servicios,Cordillera,Rural,2023-06-30,96,12.0,FOGAMU,En mora
+397,Beneficiario_397,Banca Comunal,92001783,Ahorro obligatorio (Banca Comunal),Microempresa,Agropecuario,Itapúa,Rural,2023-01-03,12,13.0,FOGAPY,En mora
+398,Beneficiario_398,Yvy Ñamombarete Hagua,310580423,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Turismo,Itapúa,Rural,2023-08-22,120,18.0,FOGAPY,Activo
+399,Beneficiario_399,Proagro Banana,311259114,Proyectos productivos rurales/urbanos,Microempresa,Agropecuario,Guairá,Periurbano,2023-12-05,48,13.0,FOGAPY,Finalizado
+400,Beneficiario_400,Turismo Rural 2.0 - Sello Verde,208380655,Recolección de aguas de lluvia,Microempresa,Servicios,Concepción,Urbano,2023-01-08,24,15.0,FOGAPY,Activo
+401,Beneficiario_401,Mbaretéra,207734240,Cosecha y almacenamiento,Microempresa,Agricultura Familiar Campesina,Concepción,Urbano,2023-07-06,48,11.5,FOGAPY,Activo
+402,Beneficiario_402,Mujer Emprendedora,382551902,Capital operativo,Pequeña Empresa,Industrial,Alto Paraná,Periurbano,2023-11-14,72,11.5,No tiene garantía,En mora
+403,Beneficiario_403,Mujer Emprendedora,383967531,Tratamiento de residuos sólidos y líquidos,Productor individual,Artesanal,Central,Semiurbano,2023-01-31,36,18.0,No tiene garantía,En mora
+404,Beneficiario_404,Para Micro y Pequeñas Empresas,280689021,Otros,Pequeña Empresa,Artesanal,Caaguazú,Rural,2023-04-09,96,10.0,FOGAMU,Finalizado
+405,Beneficiario_405,Proagro CAH,573606166,Energías renovables,Pequeña Empresa,Turismo,Amambay,Semiurbano,2023-11-03,120,18.0,FOGAPY,Activo
+406,Beneficiario_406,Kuña Ñamombarete Hagua - FOGAMU,551008647,Cosecha y almacenamiento,Productor individual,Turismo,Central,Periurbano,2023-09-13,48,10.0,FOGAPY,Activo
+407,Beneficiario_407,Inversión Productiva 2.0 - FOGAPY,484499995,Infraestructura sustentable,Organización legalmente constituida,Comercio,Presidente Hayes,Semiurbano,2023-09-30,108,12.0,FOGAMU,Finalizado
+408,Beneficiario_408,Ñepyrura 2.0,210278310,Otros,Pequeña Empresa,Servicios,Caaguazú,Periurbano,2023-04-12,12,14.0,No tiene garantía,Activo
+409,Beneficiario_409,Turismo Rural,134557454,Infraestructura sustentable,Pequeña Empresa,Forestal,Cordillera,Rural,2023-06-23,24,11.5,FOGAMU,Finalizado
+410,Beneficiario_410,Para Micro y Pequeñas Empresas,653540803,Energías renovables,Organización legalmente constituida,Comercio,San Pedro,Urbano,2023-07-25,24,12.0,FOGAMU,Finalizado
+411,Beneficiario_411,Turismo Rural,42050956,Energías renovables,Organización legalmente constituida,Comercio,Amambay,Urbano,2023-05-09,108,14.0,No tiene garantía,Activo
+412,Beneficiario_412,Kuña Ñamombarete Hagua - FOGAMU,368559417,Capital de inversión,Productor individual,Forestal,Ñeembucú,Rural,2023-03-12,24,10.0,FOGAMU,En mora
+413,Beneficiario_413,Mbaretéra,447807463,Capital de inversión,Productor individual,Artesanal,Misiones,Urbano,2023-12-09,72,13.0,FOGAPY,Finalizado
+414,Beneficiario_414,Promandioca - CAH,552011911,Ahorro obligatorio (Banca Comunal),Productor individual,Turismo,Boquerón,Rural,2023-11-18,60,15.0,No tiene garantía,Activo
+415,Beneficiario_415,Mujer Emprendedora,33527829,Tratamiento de residuos sólidos y líquidos,Productor individual,Turismo,Asunción,Semiurbano,2023-09-02,12,12.0,FOGAMU,Finalizado
+416,Beneficiario_416,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,383522081,Cosecha y almacenamiento,Pequeña Empresa,Turismo,Caazapá,Semiurbano,2023-09-01,108,13.0,No tiene garantía,En mora
+417,Beneficiario_417,Banca Comunal,267134784,Ahorro obligatorio (Banca Comunal),Microempresa,Agricultura Familiar Campesina,Guairá,Periurbano,2023-08-24,36,13.0,No tiene garantía,Activo
+418,Beneficiario_418,Proagro CAH,543248361,Equipamiento turístico,Organización legalmente constituida,Agricultura Familiar Campesina,Cordillera,Semiurbano,2023-11-23,12,11.5,FOGAPY,En mora
+419,Beneficiario_419,Proagro Banana,668083173,Capital operativo,Organización legalmente constituida,Agroindustrial,San Pedro,Urbano,2023-03-09,60,18.0,FOGAPY,Finalizado
+420,Beneficiario_420,Turismo Rural,547466679,Infraestructura sustentable,Organización legalmente constituida,Turismo,Concepción,Periurbano,2023-07-24,60,10.0,No tiene garantía,Activo
+421,Beneficiario_421,Turismo Rural,95923828,Equipamiento turístico,Organización legalmente constituida,Agroindustrial,Caazapá,Semiurbano,2023-10-04,84,18.0,FOGAPY,Finalizado
+422,Beneficiario_422,Crédito a Través del Descuento de Documento (CDD),21049506,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Agroindustrial,Amambay,Periurbano,2023-09-05,60,12.0,FOGAPY,Activo
+423,Beneficiario_423,Proagro CAH,200165471,Cultivo sostenible de frutas y verduras,Productor individual,Turismo,Concepción,Rural,2023-09-28,48,12.0,No tiene garantía,En mora
+424,Beneficiario_424,Ñepyrura 2.0,344028581,Proyectos productivos rurales/urbanos,Productor individual,Forestal,Paraguarí,Rural,2023-05-26,96,14.0,No tiene garantía,Activo
+425,Beneficiario_425,Promandioca - CAH,218649365,Equipamiento turístico,Microempresa,Agricultura Familiar Campesina,Misiones,Urbano,2023-05-16,72,18.0,FOGAMU,En mora
+426,Beneficiario_426,Juventud Emprendedora,44376211,Capital operativo,Pequeña Empresa,Forestal,Central,Periurbano,2023-07-16,96,12.0,FOGAMU,En mora
+427,Beneficiario_427,Crédito a Través del Descuento de Documento (CDD),587857648,Infraestructura sustentable,Productor individual,Agricultura Familiar Campesina,Central,Periurbano,2023-08-12,96,13.0,FOGAPY,Finalizado
+428,Beneficiario_428,Promandioca - CAH,436420784,Ahorro obligatorio (Banca Comunal),Microempresa,Servicios,Misiones,Periurbano,2023-03-18,108,12.0,No tiene garantía,Activo
+429,Beneficiario_429,Proagro CAH,624118370,Recolección de aguas de lluvia,Pequeña Empresa,Servicios,Itapúa,Rural,2023-12-18,120,10.0,No tiene garantía,En mora
+430,Beneficiario_430,Promandioca - CAH,128340442,Infraestructura sustentable,Productor individual,Agroindustrial,Itapúa,Urbano,2023-10-28,48,10.0,FOGAMU,Finalizado
+431,Beneficiario_431,CAH/Mercadeo,287371676,Desarrollo de microemprendimientos,Pequeña Empresa,Comercio,Guairá,Periurbano,2023-01-04,108,12.0,FOGAPY,Activo
+432,Beneficiario_432,Mbaretéra,195536580,Capital de inversión,Microempresa,Servicios,Asunción,Rural,2023-03-09,60,12.0,FOGAMU,Activo
+433,Beneficiario_433,Crédito a Través del Descuento de Documento (CDD),517156352,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Artesanal,Canindeyú,Periurbano,2023-12-14,84,15.0,FOGAMU,Activo
+434,Beneficiario_434,CAH/Mercadeo,566461185,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,Cordillera,Semiurbano,2023-12-22,72,15.0,No tiene garantía,Activo
+435,Beneficiario_435,Para Micro y Pequeñas Empresas,315202652,Desarrollo de microemprendimientos,Microempresa,Agricultura Familiar Campesina,Guairá,Rural,2023-10-06,12,13.0,No tiene garantía,En mora
+436,Beneficiario_436,CAH/Mercadeo,147204410,Recolección de aguas de lluvia,Pequeña Empresa,Artesanal,Alto Paraguay,Rural,2023-07-20,48,10.0,No tiene garantía,Activo
+437,Beneficiario_437,Kuña Ñamombarete Hagua - FOGAMU,653827950,Energías renovables,Microempresa,Turismo,Central,Periurbano,2023-03-19,120,12.0,FOGAPY,Finalizado
+438,Beneficiario_438,Inversión Productiva 2.0 - FOGAPY,222073504,Capital de inversión,Pequeña Empresa,Industrial,Amambay,Urbano,2023-10-20,12,11.5,FOGAPY,En mora
+439,Beneficiario_439,Crédito a Través del Descuento de Documento (CDD),562001416,Proyectos productivos rurales/urbanos,Productor individual,Industrial,Alto Paraguay,Periurbano,2023-08-29,36,10.0,FOGAMU,En mora
+440,Beneficiario_440,Ñepyrura 2.0,211564253,Infraestructura sustentable,Organización legalmente constituida,Forestal,Boquerón,Rural,2023-11-11,84,14.0,FOGAMU,Finalizado
+441,Beneficiario_441,Ñepyrura 2.0,478037366,Tratamiento de residuos sólidos y líquidos,Pequeña Empresa,Agricultura Familiar Campesina,Alto Paraguay,Semiurbano,2023-05-29,36,18.0,FOGAMU,Finalizado
+442,Beneficiario_442,Proagro Banana,559100293,Eficiencia energética,Microempresa,Servicios,Presidente Hayes,Semiurbano,2023-06-18,24,15.0,FOGAMU,En mora
+443,Beneficiario_443,Para Micro y Pequeñas Empresas,605022684,Ahorro obligatorio (Banca Comunal),Pequeña Empresa,Comercio,Paraguarí,Periurbano,2023-07-27,60,11.5,FOGAPY,En mora
+444,Beneficiario_444,Mujer Emprendedora,512047246,Desarrollo de microemprendimientos,Productor individual,Agropecuario,Caaguazú,Periurbano,2023-09-07,108,15.0,FOGAMU,Activo
+445,Beneficiario_445,Inversión Productiva,195117551,Recolección de aguas de lluvia,Organización legalmente constituida,Industrial,Ñeembucú,Semiurbano,2023-10-16,120,13.0,FOGAMU,Activo
+446,Beneficiario_446,Kuña Ñamombarete Hagua - FOGAMU,363568174,Tratamiento de residuos sólidos y líquidos,Microempresa,Agroindustrial,Boquerón,Rural,2023-04-11,120,18.0,FOGAMU,En mora
+447,Beneficiario_447,Inversión Productiva 2.0 - FOGAPY,466493533,Eficiencia energética,Productor individual,Forestal,Paraguarí,Periurbano,2023-05-26,96,18.0,No tiene garantía,Activo
+448,Beneficiario_448,Promandioca - CAH,118018902,Desarrollo de microemprendimientos,Pequeña Empresa,Servicios,San Pedro,Rural,2023-01-21,48,11.5,FOGAMU,Activo
+449,Beneficiario_449,Proagro Banana,320992897,Eficiencia energética,Pequeña Empresa,Agricultura Familiar Campesina,Central,Rural,2023-12-30,108,14.0,No tiene garantía,Finalizado
+450,Beneficiario_450,Crédito a Través del Descuento de Documento (CDD),300078778,Recolección de aguas de lluvia,Organización legalmente constituida,Agroindustrial,Concepción,Rural,2023-09-21,108,12.0,FOGAMU,Finalizado
+451,Beneficiario_451,Proagro Banana,277208994,Cultivo sostenible de frutas y verduras,Microempresa,Artesanal,Presidente Hayes,Rural,2023-08-14,12,13.0,FOGAMU,Activo
+452,Beneficiario_452,Mujer Emprendedora,52315732,Ahorro obligatorio (Banca Comunal),Microempresa,Comercio,Amambay,Periurbano,2023-11-08,72,10.0,No tiene garantía,Activo
+453,Beneficiario_453,Yvy Ñamombarete Hagua,616334938,Eficiencia energética,Organización legalmente constituida,Forestal,Alto Paraná,Rural,2023-10-12,84,14.0,No tiene garantía,En mora
+454,Beneficiario_454,Po Joasá,486467773,Desarrollo de microemprendimientos,Productor individual,Agropecuario,Paraguarí,Rural,2023-07-11,72,12.0,FOGAPY,Finalizado
+455,Beneficiario_455,Kuña Ñamombarete Hagua - FOGAMU,49503214,Otros,Productor individual,Comercio,Central,Rural,2023-06-13,120,11.5,No tiene garantía,Activo
+456,Beneficiario_456,Proagro CAH,158835140,Energías renovables,Organización legalmente constituida,Agricultura Familiar Campesina,Boquerón,Rural,2023-10-06,12,12.0,No tiene garantía,En mora
+457,Beneficiario_457,Mbaretéra,694293917,Ahorro obligatorio (Banca Comunal),Organización legalmente constituida,Artesanal,Itapúa,Semiurbano,2023-05-06,36,14.0,FOGAPY,Finalizado
+458,Beneficiario_458,Po Joasá,392183964,Cosecha y almacenamiento,Microempresa,Agropecuario,Caaguazú,Semiurbano,2023-05-07,48,18.0,FOGAPY,En mora
+459,Beneficiario_459,Mujer Emprendedora,602101246,Equipamiento turístico,Organización legalmente constituida,Servicios,Ñeembucú,Periurbano,2023-04-27,84,14.0,FOGAMU,En mora
+460,Beneficiario_460,Yvy Ñamombarete Hagua,652578358,Cosecha y almacenamiento,Organización legalmente constituida,Servicios,Ñeembucú,Periurbano,2023-04-07,12,13.0,FOGAPY,Activo
+461,Beneficiario_461,Po Joasá,660591399,Capital de inversión,Pequeña Empresa,Industrial,Asunción,Urbano,2023-04-27,36,10.0,FOGAPY,Activo
+462,Beneficiario_462,Kuña Ñamombarete Hagua - FOGAMU,624138365,Infraestructura sustentable,Microempresa,Comercio,Cordillera,Semiurbano,2023-11-21,72,13.0,FOGAMU,Finalizado
+463,Beneficiario_463,Mbaretéra,415044643,Eficiencia energética,Microempresa,Agricultura Familiar Campesina,Alto Paraná,Urbano,2023-11-23,48,14.0,FOGAPY,Activo
+464,Beneficiario_464,Banca Comunal,352888847,Cosecha y almacenamiento,Microempresa,Industrial,Itapúa,Urbano,2023-08-02,108,11.5,FOGAMU,Activo
+465,Beneficiario_465,Inversión Productiva,587109231,Capital de inversión,Organización legalmente constituida,Industrial,Cordillera,Rural,2023-03-04,84,11.5,No tiene garantía,Activo
+466,Beneficiario_466,Juventud Emprendedora,200437993,Recolección de aguas de lluvia,Pequeña Empresa,Forestal,Alto Paraguay,Urbano,2023-12-22,48,10.0,FOGAPY,Finalizado
+467,Beneficiario_467,Mbaretéra,261760331,Energías renovables,Productor individual,Forestal,Alto Paraná,Semiurbano,2023-07-12,12,18.0,FOGAMU,Finalizado
+468,Beneficiario_468,Turismo Rural 2.0 - Sello Verde,498116365,Desarrollo de microemprendimientos,Microempresa,Turismo,Cordillera,Urbano,2023-05-10,96,15.0,No tiene garantía,Finalizado
+469,Beneficiario_469,Proagro Banana,677547428,Infraestructura sustentable,Productor individual,Artesanal,Alto Paraná,Semiurbano,2023-08-15,24,13.0,FOGAPY,Activo
+470,Beneficiario_470,Ñepyrura 2.0,644307348,Cultivo sostenible de frutas y verduras,Organización legalmente constituida,Artesanal,Alto Paraguay,Rural,2023-05-01,108,11.5,No tiene garantía,Activo
+471,Beneficiario_471,Mbaretéra,9071993,Proyectos productivos rurales/urbanos,Productor individual,Turismo,Central,Periurbano,2023-09-26,60,11.5,FOGAMU,Finalizado
+472,Beneficiario_472,Turismo Rural,76450186,Capital de inversión,Productor individual,Agroindustrial,Concepción,Urbano,2023-05-15,12,13.0,FOGAPY,En mora
+473,Beneficiario_473,Crédito a Través del Descuento de Documento (CDD),169121192,Desarrollo de microemprendimientos,Microempresa,Agropecuario,Caazapá,Periurbano,2023-03-06,108,11.5,FOGAMU,En mora
+474,Beneficiario_474,Mbaretéra,374554125,Recolección de aguas de lluvia,Pequeña Empresa,Agricultura Familiar Campesina,Itapúa,Urbano,2023-10-11,120,14.0,No tiene garantía,Activo
+475,Beneficiario_475,Mbaretéra,317511969,Equipamiento turístico,Productor individual,Agricultura Familiar Campesina,Paraguarí,Urbano,2023-04-18,36,13.0,FOGAPY,Finalizado
+476,Beneficiario_476,Ñepyrura 2.0,566121200,Recolección de aguas de lluvia,Productor individual,Agricultura Familiar Campesina,Itapúa,Urbano,2023-11-26,48,11.5,FOGAMU,Activo
+477,Beneficiario_477,Inversión Productiva,249620573,Cosecha y almacenamiento,Productor individual,Turismo,Alto Paraguay,Rural,2023-01-29,48,15.0,No tiene garantía,Activo
+478,Beneficiario_478,Mujer Emprendedora,432472550,Energías renovables,Pequeña Empresa,Agropecuario,Boquerón,Urbano,2023-03-04,36,13.0,FOGAPY,Finalizado
+479,Beneficiario_479,Proagro Banana,398122716,Ahorro obligatorio (Banca Comunal),Microempresa,Turismo,Misiones,Semiurbano,2023-01-01,72,13.0,FOGAMU,Finalizado
+480,Beneficiario_480,Crédito a Través del Descuento de Documento (CDD),381525448,Equipamiento turístico,Microempresa,Industrial,Amambay,Rural,2023-12-27,108,14.0,FOGAMU,En mora
+481,Beneficiario_481,Mbaretéra,133648003,Infraestructura sustentable,Pequeña Empresa,Agropecuario,Guairá,Rural,2023-04-28,48,11.5,No tiene garantía,Activo
+482,Beneficiario_482,Turismo Rural 2.0 - Sello Verde,309050319,Energías renovables,Microempresa,Agroindustrial,Alto Paraguay,Urbano,2023-10-13,48,10.0,No tiene garantía,En mora
+483,Beneficiario_483,Mujer Emprendedora,515408654,Capital de inversión,Productor individual,Forestal,Concepción,Rural,2023-11-24,60,12.0,FOGAPY,Finalizado
+484,Beneficiario_484,Yvy Ñamombarete Hagua,160048584,Cultivo sostenible de frutas y verduras,Microempresa,Industrial,Central,Periurbano,2023-06-28,72,13.0,FOGAPY,Finalizado
+485,Beneficiario_485,Turismo Rural 2.0 - Sello Verde,114362334,Equipamiento turístico,Organización legalmente constituida,Turismo,Misiones,Periurbano,2023-02-05,36,15.0,FOGAPY,Activo
+486,Beneficiario_486,Inversión Productiva,554410517,Proyectos productivos rurales/urbanos,Productor individual,Agroindustrial,Presidente Hayes,Semiurbano,2023-05-26,120,18.0,FOGAMU,En mora
+487,Beneficiario_487,Turismo Rural,645226012,Proyectos productivos rurales/urbanos,Organización legalmente constituida,Agropecuario,Asunción,Urbano,2023-09-01,120,15.0,No tiene garantía,Activo
+488,Beneficiario_488,Banca Comunal,109949050,Cultivo sostenible de frutas y verduras,Productor individual,Artesanal,Presidente Hayes,Semiurbano,2023-07-08,60,15.0,FOGAPY,Finalizado
+489,Beneficiario_489,Kuña Ñamombarete Hagua - FOGAMU,17205765,Otros,Productor individual,Agricultura Familiar Campesina,Ñeembucú,Rural,2023-06-08,36,13.0,FOGAPY,En mora
+490,Beneficiario_490,Ñepyrura 2.0,213083254,Capital operativo,Organización legalmente constituida,Comercio,Misiones,Rural,2023-01-02,96,10.0,FOGAPY,Activo
+491,Beneficiario_491,Juventud Emprendedora,378676430,Cultivo sostenible de frutas y verduras,Pequeña Empresa,Agropecuario,San Pedro,Periurbano,2023-08-18,96,18.0,No tiene garantía,Finalizado
+492,Beneficiario_492,Proagro CAH,265373319,Otros,Productor individual,Agropecuario,Amambay,Semiurbano,2023-10-07,96,10.0,No tiene garantía,En mora
+493,Beneficiario_493,Inversión Productiva 2.0 - FOGAPY,438693404,Capital de inversión,Organización legalmente constituida,Agroindustrial,Concepción,Rural,2023-05-30,108,14.0,FOGAMU,Activo
+494,Beneficiario_494,Inversión Productiva 2.0 - FOGAPY,388573904,Energías renovables,Productor individual,Artesanal,Alto Paraguay,Rural,2023-11-07,84,11.5,FOGAMU,Finalizado
+495,Beneficiario_495,Yvy Ñamombarete Hagua,499055604,Recolección de aguas de lluvia,Microempresa,Turismo,Alto Paraná,Periurbano,2023-01-11,48,13.0,FOGAMU,Finalizado
+496,Beneficiario_496,Estudiantes y Técnicos Egresados de Escuelas Agropecuarias y Otros,441502038,Energías renovables,Organización legalmente constituida,Turismo,Caaguazú,Rural,2023-10-03,24,11.5,FOGAMU,Finalizado
+497,Beneficiario_497,Mujer Emprendedora,469520699,Desarrollo de microemprendimientos,Microempresa,Agroindustrial,Cordillera,Urbano,2023-11-13,24,13.0,FOGAPY,Activo
+498,Beneficiario_498,Promandioca - CAH,411934084,Recolección de aguas de lluvia,Pequeña Empresa,Turismo,Caazapá,Semiurbano,2023-01-19,96,13.0,FOGAPY,Finalizado
+499,Beneficiario_499,Proagro Banana,339724815,Eficiencia energética,Pequeña Empresa,Agricultura Familiar Campesina,Paraguarí,Urbano,2023-08-01,24,14.0,No tiene garantía,Activo
+500,Beneficiario_500,Yvy Ñamombarete Hagua,430329939,Capital de inversión,Organización legalmente constituida,Agroindustrial,Cordillera,Periurbano,2023-11-12,24,18.0,FOGAPY,En mora
